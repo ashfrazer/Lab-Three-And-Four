@@ -1,0 +1,946 @@
+﻿n5,#N/A,#N/A,#N/A,Undeclared,Graduate,n,3.864,Tutoring ,Study Hall,Tutoring Center,0,4,14,14,0
+n223,FEMALE,White,trad,Interior Design,Sophomore,y,2.6,Tutoring ,Study Hall,Tutoring Center,1,5,12,12,0
+n223,FEMALE,White,trad,Interior Design,Sophomore,y,2.6,Tutoring ,Study Hall,Tutoring Center,1,5,15,15,0
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,1,5,12,15,178
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,1,5,14,17,184
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,1,5,15,15,48
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,1,5,12,15,178
+n309,MALE,White,trad,General Business,Sophomore,y,3.29,Tutoring ,Study Hall,Tutoring Center,1,5,16,16,1
+n311,MALE,White,trad,General Business,Sophomore,y,3.29,Tutoring ,Study Hall,Tutoring Center,1,5,16,16,1
+n311,MALE,White,trad,General Business,Sophomore,y,3.29,Tutoring ,Study Hall,Tutoring Center,1,5,17,17,0
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,1,5,15,16,51
+n343,MALE,Non-Resident Alien,trad,Chemistry,Junior,y,3.778,Tutoring ,Study Hall,Tutoring Center,1,5,14,17,182
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,1,6,9,10,73
+n3,MALE,White,trad,Computer Science,Senior,n,3.385,Tutoring ,Study Hall,Tutoring Center,1,6,10,11,87
+n89,FEMALE,White,trad,Accounting,Junior,n,4,Tutoring ,Study Hall,Tutoring Center,1,7,12,14,98
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,1,7,11,11,3
+n3,MALE,White,trad,Computer Science,Senior,n,3.385,Tutoring ,Study Hall,Tutoring Center,1,7,13,14,46
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,1,7,13,13,0
+n52,MALE,White,trad,"Undergrad Pre-Professional,Biology",Senior,n,3.67,Tutoring ,Study Hall,Tutoring Center,2,1,18,19,12
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,2,2,18,18,0
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,2,2,14,16,122
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,2,2,18,19,74
+n154,FEMALE,Non-Resident Alien,trad,Health Promotion,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,2,2,17,18,56
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,2,2,19,21,154
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,2,2,16,18,127
+n196,MALE,White,trad,Accounting,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,2,2,19,21,124
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,2,2,19,21,103
+n31,FEMALE,Non-Resident Alien,trad,Computer Science,Senior,n,3.248,Tutoring ,Study Hall,Tutoring Center,2,2,14,19,327
+n343,MALE,Non-Resident Alien,trad,Chemistry,Junior,y,3.778,Tutoring ,Study Hall,Tutoring Center,2,2,16,19,170
+n335,MALE,Non-Resident Alien,trad,Computer Science,Freshman,n,4,Tutoring ,Study Hall,Tutoring Center,2,2,14,15,46
+n330,FEMALE,Black or African  American,trad,General Business,Freshman,y,2.667,Tutoring ,Study Hall,Tutoring Center,2,2,19,21,156
+n376,MALE,Black or African  American,trad,Public Relations,Freshman,y,2.5,Tutoring ,Study Hall,Tutoring Center,2,2,19,21,154
+n190,FEMALE,White,trad,Health Promotion,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,2,3,10,13,154
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,2,3,20,21,92
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,2,3,21,22,19
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,2,3,21,22,18
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,2,3,17,19,105
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,2,3,11,12,70
+n98,FEMALE,Black or African  American,trad,Radiography,Junior,n,3.806,Tutoring ,Study Hall,Tutoring Center,2,3,17,18,75
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,2,3,18,21,178
+n7,FEMALE,Hispanic,nontrad,Elementary Education K-6,Senior,n,3.128,Tutoring ,Study Hall,Tutoring Center,2,3,13,20,429
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,2,3,13,14,59
+n343,MALE,Non-Resident Alien,trad,Chemistry,Junior,y,3.778,Tutoring ,Study Hall,Tutoring Center,2,3,19,22,137
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,2,4,20,21,51
+n180,FEMALE,White,trad,Physical Education K-12,Sophomore,y,3.548,Tutoring ,Study Hall,Tutoring Center,2,4,9,10,100
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,2,4,13,15,143
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,2,4,20,21,70
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,2,4,10,20,624
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,2,5,14,17,152
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,2,5,17,18,65
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,2,5,20,20,0
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,2,5,18,18,0
+n154,FEMALE,Non-Resident Alien,trad,Health Promotion,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,2,5,17,18,56
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,2,5,18,21,206
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,2,5,10,12,88
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,2,5,17,20,172
+n354,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.053,Tutoring ,Study Hall,Tutoring Center,2,5,16,20,251
+n88,FEMALE,White,trad,"Undergrad Pre-Professional,Exercise Science",Junior,n,3.167,Tutoring ,Study Hall,Tutoring Center,2,5,14,22,427
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,2,5,14,19,295
+n7,FEMALE,Hispanic,nontrad,Elementary Education K-6,Senior,n,3.128,Tutoring ,Study Hall,Tutoring Center,2,5,10,12,70
+n365,FEMALE,Non-Resident Alien,trad,Marketing,Senior,y,2.765,Tutoring ,Study Hall,Tutoring Center,2,5,16,19,169
+n30,FEMALE,Black or African  American,trad,Comm Sciences & Disorders,Continuing,y,2.408,Tutoring ,Study Hall,Tutoring Center,2,5,19,21,141
+n31,FEMALE,Non-Resident Alien,trad,Computer Science,Senior,n,3.248,Tutoring ,Study Hall,Tutoring Center,2,5,16,18,116
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,2,5,16,18,153
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,2,5,19,21,115
+n330,FEMALE,Black or African  American,trad,General Business,Freshman,y,2.667,Tutoring ,Study Hall,Tutoring Center,2,5,16,18,106
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,2,5,12,13,60
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,2,6,9,9,0
+n47,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.216,Tutoring ,Study Hall,Tutoring Center,2,6,11,11,0
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,2,7,13,14,108
+n389,FEMALE,Hispanic,trad,"Undergrad Pre-Professional,Health Promotion",Junior,y,3.313,Tutoring ,Study Hall,Tutoring Center,3,1,18,18,32
+n201,FEMALE,White,trad,Accounting,Sophomore,n,2.719,Tutoring ,Study Hall,Tutoring Center,3,1,18,21,172
+n126,MALE,White,trad,Dietetics,Junior,n,3.78,Tutoring ,Study Hall,Tutoring Center,3,1,19,21,118
+n190,FEMALE,White,trad,Health Promotion,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,3,2,15,17,107
+n89,FEMALE,White,trad,Accounting,Junior,n,4,Tutoring ,Study Hall,Tutoring Center,3,2,19,21,88
+n78,MALE,Non-Resident Alien,trad,Public Relations,Junior,y,2.494,Tutoring ,Study Hall,Tutoring Center,3,2,12,19,407
+n51,FEMALE,Black or African  American,trad,Psychology,Senior,n,3.063,Tutoring ,Study Hall,Tutoring Center,3,2,17,17,0
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,3,2,19,21,119
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,3,2,19,21,133
+n90,MALE,White,trad,Marketing,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,3,2,19,21,161
+n353,MALE,White,trad,Finance,Sophomore,y,3.3,Tutoring ,Study Hall,Tutoring Center,3,2,19,21,161
+n7,FEMALE,Hispanic,nontrad,Elementary Education K-6,Senior,n,3.128,Tutoring ,Study Hall,Tutoring Center,3,2,16,18,133
+n187,FEMALE,White,trad,Health Sciences,Sophomore,y,3,Tutoring ,Study Hall,Tutoring Center,3,2,15,17,104
+n1,MALE,White,nontrad,Film,Junior,n,2.425,Tutoring ,Study Hall,Tutoring Center,3,2,13,19,351
+n343,MALE,Non-Resident Alien,trad,Chemistry,Junior,y,3.778,Tutoring ,Study Hall,Tutoring Center,3,2,16,18,124
+n330,FEMALE,Black or African  American,trad,General Business,Freshman,y,2.667,Tutoring ,Study Hall,Tutoring Center,3,2,19,22,165
+n330,FEMALE,Black or African  American,trad,General Business,Freshman,y,2.667,Tutoring ,Study Hall,Tutoring Center,3,2,16,17,26
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,3,2,10,12,124
+n190,FEMALE,White,trad,Health Promotion,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,3,3,19,20,108
+n190,FEMALE,White,trad,Health Promotion,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,3,3,11,13,159
+n128,FEMALE,White,trad,Psychology,Junior,n,3.95,Tutoring ,Study Hall,Tutoring Center,3,3,16,16,0
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,3,3,19,19,39
+n240,FEMALE,White,trad,Criminology,Freshman,y,2.107,Tutoring ,Study Hall,Tutoring Center,3,3,19,20,60
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,3,3,17,21,278
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,3,3,20,21,91
+n5,#N/A,#N/A,#N/A,Undeclared,Graduate,n,3.864,Tutoring ,Study Hall,Tutoring Center,3,3,16,16,0
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,3,3,20,21,91
+n250,FEMALE,White,trad,Family and Consumer Science,Sophomore,y,3.621,Tutoring ,Study Hall,Tutoring Center,3,3,19,21,105
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,3,3,19,21,123
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,3,3,18,21,146
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,3,3,14,20,400
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,3,3,11,12,73
+n44,FEMALE,White,trad,Insurance & Risk Mgmt,Senior,y,3.772,Tutoring ,Study Hall,Tutoring Center,3,3,19,21,102
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,3,3,19,21,132
+n274,MALE,Black or African  American,trad,Computer Science,Sophomore,n,2.964,Tutoring ,Study Hall,Tutoring Center,3,3,19,20,34
+n31,FEMALE,Non-Resident Alien,trad,Computer Science,Senior,n,3.248,Tutoring ,Study Hall,Tutoring Center,3,3,16,19,152
+n298,FEMALE,Non-Resident Alien,trad,Criminology,Freshman,y,3.444,Tutoring ,Study Hall,Tutoring Center,3,3,19,21,102
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,3,3,20,21,115
+n115,FEMALE,Black or African  American,trad,"Undergrad Pre-Professional,Biology",Sophomore,n,3.083,Tutoring ,Study Hall,Tutoring Center,3,3,18,19,72
+n283,FEMALE,Non-Resident Alien,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,3,3,12,14,100
+n205,FEMALE,White,trad,Nursing Pre-BSN,Sophomore,y,2.806,Tutoring ,Study Hall,Tutoring Center,3,3,11,20,543
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,3,3,9,10,70
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,3,4,10,10,54
+n190,FEMALE,White,trad,Health Promotion,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,3,4,20,21,93
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,3,4,18,20,112
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,3,4,20,21,77
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,3,4,18,18,5
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,164
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,164
+n354,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.053,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,121
+n45,FEMALE,Black or African  American,trad,"Exercise Science,Undergrad Pre-Professional",Senior,y,2.925,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,165
+n291,FEMALE,Black or African  American,trad,Art,Sophomore,n,3.033,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,137
+n242,FEMALE,Black or African  American,trad,Criminology,Freshman,n,2.25,Tutoring ,Study Hall,Tutoring Center,3,4,19,19,44
+n119,MALE,Black or African  American,trad,Psychology,Sophomore,n,2,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,108
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,3,4,14,16,123
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,123
+n146,FEMALE,Black or African  American,trad,Elementary Education K-6,Senior,n,2.775,Tutoring ,Study Hall,Tutoring Center,3,4,19,20,114
+n38,FEMALE,Black or African  American,trad,"Chemistry,Undergrad Pre-Professional",Senior,n,3.115,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,165
+n217,FEMALE,Black or African  American,trad,Radiography,Junior,n,2.656,Tutoring ,Study Hall,Tutoring Center,3,4,21,21,0
+n104,MALE,Non-Resident Alien,trad,Mathematics,Senior,n,3.747,Tutoring ,Study Hall,Tutoring Center,3,4,14,21,450
+n365,FEMALE,Non-Resident Alien,trad,Marketing,Senior,y,2.765,Tutoring ,Study Hall,Tutoring Center,3,4,15,18,181
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,3,4,9,11,109
+n187,FEMALE,White,trad,Health Sciences,Sophomore,y,3,Tutoring ,Study Hall,Tutoring Center,3,4,20,21,82
+n132,MALE,Black or African  American,trad,Family and Consumer Science,Freshman,n,1.179,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,165
+n186,FEMALE,Black or African  American,trad,Art,Sophomore,n,3.633,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,138
+n170,FEMALE,White,trad,Family and Consumer Science,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,3,4,18,19,53
+n309,MALE,White,trad,General Business,Sophomore,y,3.29,Tutoring ,Study Hall,Tutoring Center,3,4,18,20,124
+n15,FEMALE,Two or more races,trad,Exercise Science,Senior,n,2.978,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,165
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,3,4,14,17,140
+n102,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,n,2.813,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,121
+n35,FEMALE,White,trad,"Psychology,Philosophy",Senior,n,4,Tutoring ,Study Hall,Tutoring Center,3,4,18,21,175
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,138
+n49,MALE,White,trad,"Psychology,Philosophy",Senior,n,3.691,Tutoring ,Study Hall,Tutoring Center,3,4,18,18,4
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,3,4,11,12,25
+n117,FEMALE,White,trad,Psychology,Senior,n,3.295,Tutoring ,Study Hall,Tutoring Center,3,4,18,18,4
+n270,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Sophomore,n,4,Tutoring ,Study Hall,Tutoring Center,3,4,19,20,44
+n213,FEMALE,Black or African  American,trad,Criminology,Sophomore,n,3.167,Tutoring ,Study Hall,Tutoring Center,3,4,19,21,123
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,3,5,12,12,50
+n190,FEMALE,White,trad,Health Promotion,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,3,5,11,13,121
+n267,FEMALE,Black or African  American,trad,"Undergrad Pre-Professional,Exercise Science",Sophomore,n,2.871,Tutoring ,Study Hall,Tutoring Center,3,5,18,18,0
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,3,5,18,19,68
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,3,5,18,20,98
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,3,5,19,21,118
+n308,FEMALE,Black or African  American,trad,Radiography,Sophomore,n,0.5,Tutoring ,Study Hall,Tutoring Center,3,5,13,17,238
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,3,5,10,19,499
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,3,5,11,12,81
+n30,FEMALE,Black or African  American,trad,Comm Sciences & Disorders,Continuing,y,2.408,Tutoring ,Study Hall,Tutoring Center,3,5,17,21,273
+n31,FEMALE,Non-Resident Alien,trad,Computer Science,Senior,n,3.248,Tutoring ,Study Hall,Tutoring Center,3,5,17,19,111
+n140,MALE,White,trad,General Science,Sophomore,y,2.483,Tutoring ,Study Hall,Tutoring Center,3,5,11,11,50
+n249,FEMALE,Black or African  American,trad,Exercise Science,Freshman,n,1.839,Tutoring ,Study Hall,Tutoring Center,3,5,14,19,274
+n47,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.216,Tutoring ,Study Hall,Tutoring Center,3,5,12,19,422
+n330,FEMALE,Black or African  American,trad,General Business,Freshman,y,2.667,Tutoring ,Study Hall,Tutoring Center,3,5,21,21,44
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,3,5,11,16,293
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,3,5,9,19,585
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,3,6,11,12,101
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,3,6,10,10,38
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,3,6,11,12,31
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,3,6,10,10,0
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,3,6,11,12,32
+n7,FEMALE,Hispanic,nontrad,Elementary Education K-6,Senior,n,3.128,Tutoring ,Study Hall,Tutoring Center,3,6,12,12,0
+n53,FEMALE,Hispanic,trad,Management,Senior,n,3.072,Tutoring ,Study Hall,Tutoring Center,3,6,13,13,0
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,3,6,9,11,110
+n369,FEMALE,White,trad,General Studies,Senior,y,3.3,Tutoring ,Study Hall,Tutoring Center,3,6,10,10,37
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,3,6,11,13,122
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,3,7,9,12,129
+n392,MALE,White,trad,Finance,Senior,y,3.8,Tutoring ,Study Hall,Tutoring Center,3,7,11,13,131
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,3,7,11,14,145
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,3,7,14,14,0
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,3,7,12,12,0
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,3,7,13,13,41
+n219,FEMALE,White,trad,Public Relations,Junior,y,3,Tutoring ,Study Hall,Tutoring Center,3,7,13,13,10
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,3,7,12,14,116
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,3,7,14,14,7
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,4,1,20,20,48
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,4,1,17,18,55
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,4,1,18,19,66
+n187,FEMALE,White,trad,Health Sciences,Sophomore,y,3,Tutoring ,Study Hall,Tutoring Center,4,1,20,21,66
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,4,1,18,21,176
+n300,MALE,Black or African  American,trad,Health Promotion,Freshman,y,2.357,Tutoring ,Study Hall,Tutoring Center,4,1,19,20,85
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,4,2,11,15,212
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,4,2,10,12,112
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,4,2,17,21,254
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,4,2,18,21,207
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,4,2,10,12,111
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,4,2,9,11,90
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,4,2,16,21,337
+n389,FEMALE,Hispanic,trad,"Undergrad Pre-Professional,Health Promotion",Junior,y,3.313,Tutoring ,Study Hall,Tutoring Center,4,2,14,15,60
+n145,MALE,Hispanic,nontrad,Journalism,Freshman,n,0.571,Tutoring ,Study Hall,Tutoring Center,4,2,17,18,40
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,4,2,8,11,173
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,4,2,11,19,460
+n35,FEMALE,White,trad,"Psychology,Philosophy",Senior,n,4,Tutoring ,Study Hall,Tutoring Center,4,2,15,20,299
+n343,MALE,Non-Resident Alien,trad,Chemistry,Junior,y,3.778,Tutoring ,Study Hall,Tutoring Center,4,2,16,21,318
+n85,#N/A,#N/A,#N/A,"Philosophy,History",Junior,n,3.571,Tutoring ,Study Hall,Tutoring Center,4,2,15,19,201
+n269,MALE,White,trad,General Business,Freshman,n,2,Tutoring ,Study Hall,Tutoring Center,4,2,10,19,508
+n229,MALE,White,trad,General Business,Freshman,n,1.5,Tutoring ,Study Hall,Tutoring Center,4,2,10,19,508
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,4,3,9,10,88
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,4,3,17,20,208
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,4,3,16,17,44
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,4,3,19,20,87
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,4,3,18,21,210
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,4,3,18,21,193
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,4,3,9,11,126
+n68,MALE,Hispanic,trad,Innovation & Entrepreneurship,Junior,y,2.638,Tutoring ,Study Hall,Tutoring Center,4,3,19,21,113
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,4,3,20,22,68
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,4,3,19,21,164
+n354,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.053,Tutoring ,Study Hall,Tutoring Center,4,3,16,21,307
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,4,3,11,19,519
+n105,FEMALE,Asian,trad,Biology,Junior,n,3.887,Tutoring ,Study Hall,Tutoring Center,4,3,15,15,0
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,4,3,18,20,146
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,4,3,10,12,92
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,4,3,19,21,143
+n365,FEMALE,Non-Resident Alien,trad,Marketing,Senior,y,2.765,Tutoring ,Study Hall,Tutoring Center,4,3,16,20,250
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,4,3,20,21,84
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,4,3,16,19,169
+n335,MALE,Non-Resident Alien,trad,Computer Science,Freshman,n,4,Tutoring ,Study Hall,Tutoring Center,4,3,14,14,19
+n330,FEMALE,Black or African  American,trad,General Business,Freshman,y,2.667,Tutoring ,Study Hall,Tutoring Center,4,3,16,21,304
+n94,FEMALE,Black or African  American,trad,Exercise Science,Sophomore,y,2.945,Tutoring ,Study Hall,Tutoring Center,4,3,18,21,154
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,4,3,9,19,585
+n240,FEMALE,White,trad,Criminology,Freshman,y,2.107,Tutoring ,Study Hall,Tutoring Center,4,4,15,17,111
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,4,4,10,13,131
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,4,4,19,19,43
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,4,4,10,13,131
+n58,FEMALE,Black or African  American,trad,"Undergrad Pre-Professional,Biology",Senior,n,2.783,Tutoring ,Study Hall,Tutoring Center,4,4,19,21,118
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,4,4,18,20,119
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,4,4,17,19,70
+n38,FEMALE,Black or African  American,trad,"Chemistry,Undergrad Pre-Professional",Senior,n,3.115,Tutoring ,Study Hall,Tutoring Center,4,4,19,21,117
+n386,MALE,White,trad,Biology,Senior,n,2.833,Tutoring ,Study Hall,Tutoring Center,4,4,19,21,85
+n31,FEMALE,Non-Resident Alien,trad,Computer Science,Senior,n,3.248,Tutoring ,Study Hall,Tutoring Center,4,4,15,18,233
+n18,MALE,Black or African  American,trad,Family and Consumer Science,Junior,y,2.412,Tutoring ,Study Hall,Tutoring Center,4,4,12,21,534
+n140,MALE,White,trad,General Science,Sophomore,y,2.483,Tutoring ,Study Hall,Tutoring Center,4,4,19,20,41
+n15,FEMALE,Two or more races,trad,Exercise Science,Senior,n,2.978,Tutoring ,Study Hall,Tutoring Center,4,4,19,21,103
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,4,4,11,21,545
+n147,FEMALE,Non-Resident Alien,trad,Journalism,Junior,y,3.516,Tutoring ,Study Hall,Tutoring Center,4,4,16,17,48
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,4,4,19,21,130
+n75,MALE,White,trad,General Studies,Senior,y,3.972,Tutoring ,Study Hall,Tutoring Center,4,4,19,21,86
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,4,5,11,12,61
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,4,5,12,15,202
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,4,5,15,16,37
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,4,5,19,21,61
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,4,5,19,21,138
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,4,5,18,19,80
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,4,5,20,21,105
+n30,FEMALE,Black or African  American,trad,Comm Sciences & Disorders,Continuing,y,2.408,Tutoring ,Study Hall,Tutoring Center,4,5,17,21,238
+n18,MALE,Black or African  American,trad,Family and Consumer Science,Junior,y,2.412,Tutoring ,Study Hall,Tutoring Center,4,5,12,13,36
+n18,MALE,Black or African  American,trad,Family and Consumer Science,Junior,y,2.412,Tutoring ,Study Hall,Tutoring Center,4,5,10,12,91
+n140,MALE,White,trad,General Science,Sophomore,y,2.483,Tutoring ,Study Hall,Tutoring Center,4,5,10,12,76
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,4,5,19,21,82
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,4,5,16,20,263
+n47,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.216,Tutoring ,Study Hall,Tutoring Center,4,5,16,20,239
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,4,5,9,18,586
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,4,6,9,10,70
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,4,6,11,12,12
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,4,6,10,10,0
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,4,6,9,11,115
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,4,6,12,12,0
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,4,7,11,14,162
+n52,MALE,White,trad,"Undergrad Pre-Professional,Biology",Senior,n,3.67,Tutoring ,Study Hall,Tutoring Center,5,1,19,19,0
+n7,FEMALE,Hispanic,nontrad,Elementary Education K-6,Senior,n,3.128,Tutoring ,Study Hall,Tutoring Center,5,1,19,19,34
+n125,FEMALE,Black or African  American,trad,Cybersecurity Management,Junior,n,3.148,Tutoring ,Study Hall,Tutoring Center,5,2,15,21,347
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,5,2,18,19,75
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,5,2,17,21,270
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,5,2,18,21,176
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,5,2,17,21,250
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,5,2,12,12,29
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,5,2,16,18,108
+n219,FEMALE,White,trad,Public Relations,Junior,y,3,Tutoring ,Study Hall,Tutoring Center,5,2,16,20,236
+n343,MALE,Non-Resident Alien,trad,Chemistry,Junior,y,3.778,Tutoring ,Study Hall,Tutoring Center,5,2,18,22,237
+n94,FEMALE,Black or African  American,trad,Exercise Science,Sophomore,y,2.945,Tutoring ,Study Hall,Tutoring Center,5,2,15,16,98
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,5,3,10,13,122
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,5,3,19,21,114
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,5,3,19,20,70
+n240,FEMALE,White,trad,Criminology,Freshman,y,2.107,Tutoring ,Study Hall,Tutoring Center,5,3,18,19,50
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,5,3,15,16,62
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,5,3,20,22,117
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,5,3,18,20,87
+n238,FEMALE,White,trad,Psychology,Sophomore,n,3.581,Tutoring ,Study Hall,Tutoring Center,5,3,20,21,76
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,5,3,19,21,113
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,5,3,20,22,118
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,5,3,19,22,131
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,5,3,19,21,147
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,5,3,11,21,621
+n258,FEMALE,Hispanic,trad,Elementary Education K-6,Sophomore,n,1.688,Tutoring ,Study Hall,Tutoring Center,5,3,16,16,3
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,5,3,11,21,577
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,5,3,9,11,150
+n187,FEMALE,White,trad,Health Sciences,Sophomore,y,3,Tutoring ,Study Hall,Tutoring Center,5,3,18,19,47
+n140,MALE,White,trad,General Science,Sophomore,y,2.483,Tutoring ,Study Hall,Tutoring Center,5,3,9,11,105
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,5,3,18,20,110
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,5,3,19,21,136
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,5,3,12,12,48
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,5,4,16,16,41
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,5,4,10,11,72
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,5,4,11,12,16
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,5,4,18,19,66
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,5,4,18,21,161
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,5,4,18,21,205
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,5,4,20,22,83
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,5,4,19,20,35
+n160,MALE,Non-Resident Alien,trad,General Business,Sophomore,y,3.138,Tutoring ,Study Hall,Tutoring Center,5,4,14,14,0
+n160,MALE,Non-Resident Alien,trad,General Business,Sophomore,y,3.138,Tutoring ,Study Hall,Tutoring Center,5,4,14,15,85
+n366,FEMALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.909,Tutoring ,Study Hall,Tutoring Center,5,4,16,18,120
+n365,FEMALE,Non-Resident Alien,trad,Marketing,Senior,y,2.765,Tutoring ,Study Hall,Tutoring Center,5,4,16,18,120
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,5,4,10,12,120
+n259,MALE,Two or more races,trad,Cybersecurity,Sophomore,n,2.3,Tutoring ,Study Hall,Tutoring Center,5,4,15,17,139
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,5,4,11,12,49
+n229,MALE,White,trad,General Business,Freshman,n,1.5,Tutoring ,Study Hall,Tutoring Center,5,4,14,15,86
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,5,5,18,20,130
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,5,5,13,21,460
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,5,5,17,18,61
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,5,5,19,19,7
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,5,5,18,19,58
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,5,5,20,21,90
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,5,5,17,18,61
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,5,5,21,21,0
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,5,5,21,21,21
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,5,5,17,19,162
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,5,5,13,16,196
+n373,FEMALE,White,trad,Family and Consumer Science,Senior,n,3.148,Tutoring ,Study Hall,Tutoring Center,5,5,12,12,1
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,5,5,9,11,119
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,5,6,9,10,91
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,5,6,12,12,0
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,5,6,11,12,38
+n354,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.053,Tutoring ,Study Hall,Tutoring Center,5,6,9,12,223
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,5,6,12,12,0
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,5,6,11,12,37
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,5,6,10,12,81
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,5,6,12,12,0
+n18,MALE,Black or African  American,trad,Family and Consumer Science,Junior,y,2.412,Tutoring ,Study Hall,Tutoring Center,5,6,13,13,0
+n47,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.216,Tutoring ,Study Hall,Tutoring Center,5,6,10,10,0
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,5,6,11,12,77
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,5,7,10,12,110
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,6,1,20,21,110
+n360,FEMALE,Two or more races,trad,Criminology,Senior,y,3.735,Tutoring ,Study Hall,Tutoring Center,6,2,19,21,133
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,6,2,19,21,114
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,6,2,18,20,116
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,6,2,12,13,60
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,6,2,12,13,60
+n54,FEMALE,White,trad,"Undergrad Pre-Professional,Health Promotion",Junior,n,3.645,Tutoring ,Study Hall,Tutoring Center,6,2,17,17,46
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,6,2,19,21,103
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,6,2,10,20,582
+n225,MALE,Black or African  American,trad,Chemistry,Freshman,y,2.875,Tutoring ,Study Hall,Tutoring Center,6,2,18,18,1
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,6,2,9,11,113
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,6,2,12,12,45
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,6,2,18,21,148
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,6,2,20,21,71
+n35,FEMALE,White,trad,"Psychology,Philosophy",Senior,n,4,Tutoring ,Study Hall,Tutoring Center,6,2,16,18,100
+n85,#N/A,#N/A,#N/A,"Philosophy,History",Junior,n,3.571,Tutoring ,Study Hall,Tutoring Center,6,2,16,20,261
+n330,FEMALE,Black or African  American,trad,General Business,Freshman,y,2.667,Tutoring ,Study Hall,Tutoring Center,6,2,19,21,145
+n328,FEMALE,Two or more races,trad,Biology,Sophomore,y,3.184,Tutoring ,Study Hall,Tutoring Center,6,2,17,17,46
+n361,FEMALE,Hispanic,trad,Public Relations,Senior,y,3.514,Tutoring ,Study Hall,Tutoring Center,6,2,19,21,133
+n117,FEMALE,White,trad,Psychology,Senior,n,3.295,Tutoring ,Study Hall,Tutoring Center,6,2,16,18,102
+n229,MALE,White,trad,General Business,Freshman,n,1.5,Tutoring ,Study Hall,Tutoring Center,6,2,9,10,50
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,6,2,10,18,513
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,6,3,18,20,128
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,6,3,19,21,169
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,6,3,9,11,120
+n354,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.053,Tutoring ,Study Hall,Tutoring Center,6,3,18,21,206
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,6,3,10,20,604
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,6,3,15,16,83
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,6,3,9,11,119
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,6,3,18,21,225
+n160,MALE,Non-Resident Alien,trad,General Business,Sophomore,y,3.138,Tutoring ,Study Hall,Tutoring Center,6,3,15,16,94
+n366,FEMALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.909,Tutoring ,Study Hall,Tutoring Center,6,3,19,21,144
+n140,MALE,White,trad,General Science,Sophomore,y,2.483,Tutoring ,Study Hall,Tutoring Center,6,3,11,11,46
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,6,3,17,21,277
+n35,FEMALE,White,trad,"Psychology,Philosophy",Senior,n,4,Tutoring ,Study Hall,Tutoring Center,6,3,13,13,24
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,6,3,18,21,167
+n330,FEMALE,Black or African  American,trad,General Business,Freshman,y,2.667,Tutoring ,Study Hall,Tutoring Center,6,3,19,21,164
+n28,MALE,White,trad,Exercise Science,Senior,y,3.42,Tutoring ,Study Hall,Tutoring Center,6,3,13,13,45
+n355,FEMALE,White,trad,Exercise Science,Freshman,y,3.16,Tutoring ,Study Hall,Tutoring Center,6,3,10,11,71
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,6,3,9,12,163
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,6,4,13,14,66
+n70,MALE,White,trad,Exercise Science,Junior,n,2.977,Tutoring ,Study Hall,Tutoring Center,6,4,9,10,50
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,6,4,10,11,91
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,6,4,18,20,91
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,6,4,18,21,196
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,6,4,20,21,68
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,6,4,10,11,89
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,6,4,19,20,70
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,6,4,9,14,288
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,6,4,13,16,175
+n18,MALE,Black or African  American,trad,Family and Consumer Science,Junior,y,2.412,Tutoring ,Study Hall,Tutoring Center,6,4,12,13,51
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,6,4,12,12,46
+n219,FEMALE,White,trad,Public Relations,Junior,y,3,Tutoring ,Study Hall,Tutoring Center,6,4,19,21,134
+n28,MALE,White,trad,Exercise Science,Senior,y,3.42,Tutoring ,Study Hall,Tutoring Center,6,4,9,12,170
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,6,5,14,15,60
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,6,5,10,13,186
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,6,5,12,15,176
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,6,5,15,17,80
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,6,5,12,13,56
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,6,5,19,21,128
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,6,5,18,21,199
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,6,5,11,13,82
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,6,5,20,21,77
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,6,5,20,22,64
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,6,5,8,11,123
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,6,5,9,9,54
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,6,5,11,12,66
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,6,5,20,21,86
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,6,5,10,12,145
+n389,FEMALE,Hispanic,trad,"Undergrad Pre-Professional,Health Promotion",Junior,y,3.313,Tutoring ,Study Hall,Tutoring Center,6,5,9,10,95
+n18,MALE,Black or African  American,trad,Family and Consumer Science,Junior,y,2.412,Tutoring ,Study Hall,Tutoring Center,6,5,12,13,30
+n18,MALE,Black or African  American,trad,Family and Consumer Science,Junior,y,2.412,Tutoring ,Study Hall,Tutoring Center,6,5,11,11,48
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,6,5,12,14,133
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,6,5,20,22,64
+n343,MALE,Non-Resident Alien,trad,Chemistry,Junior,y,3.778,Tutoring ,Study Hall,Tutoring Center,6,5,19,21,141
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,6,5,19,20,103
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,6,5,11,16,292
+n355,FEMALE,White,trad,Exercise Science,Freshman,y,3.16,Tutoring ,Study Hall,Tutoring Center,6,5,11,13,82
+n373,FEMALE,White,trad,Family and Consumer Science,Senior,n,3.148,Tutoring ,Study Hall,Tutoring Center,6,5,15,22,408
+n240,FEMALE,White,trad,Criminology,Freshman,y,2.107,Tutoring ,Study Hall,Tutoring Center,6,6,13,13,0
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,6,6,12,13,55
+n70,MALE,White,trad,Exercise Science,Junior,n,2.977,Tutoring ,Study Hall,Tutoring Center,6,6,9,10,71
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,6,6,10,10,0
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,6,6,10,10,0
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,6,6,11,11,31
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,6,6,11,11,0
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,6,6,9,11,126
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,6,6,12,12,35
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,6,6,9,11,114
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,6,6,13,13,27
+n355,FEMALE,White,trad,Exercise Science,Freshman,y,3.16,Tutoring ,Study Hall,Tutoring Center,6,6,11,11,29
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,6,7,11,14,159
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,6,7,14,14,27
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,7,2,19,21,118
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,7,2,12,20,470
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,7,2,18,20,149
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,7,2,15,18,147
+n87,MALE,White,trad,General Business,Sophomore,y,3.333,Tutoring ,Study Hall,Tutoring Center,7,2,19,21,120
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,7,2,18,21,185
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,7,2,19,21,118
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,7,2,16,22,341
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,7,2,17,21,196
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,7,2,17,21,245
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,7,2,15,18,147
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,7,3,12,13,89
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,7,3,19,20,50
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,7,3,18,18,57
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,7,3,11,12,24
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,7,3,18,19,115
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,7,3,17,21,234
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,7,3,17,21,234
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,7,3,11,19,433
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,7,3,17,19,151
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,7,3,10,12,79
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,7,3,19,20,81
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,7,3,18,20,96
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,7,3,11,19,440
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,7,3,19,20,55
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,7,3,18,18,50
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,7,3,9,11,119
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,7,3,9,11,119
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,7,3,9,11,127
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,7,3,19,19,31
+n366,FEMALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.909,Tutoring ,Study Hall,Tutoring Center,7,3,19,21,119
+n365,FEMALE,Non-Resident Alien,trad,Marketing,Senior,y,2.765,Tutoring ,Study Hall,Tutoring Center,7,3,9,10,67
+n147,FEMALE,Non-Resident Alien,trad,Journalism,Junior,y,3.516,Tutoring ,Study Hall,Tutoring Center,7,3,18,20,118
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,7,3,16,21,282
+n330,FEMALE,Black or African  American,trad,General Business,Freshman,y,2.667,Tutoring ,Study Hall,Tutoring Center,7,3,19,21,148
+n285,FEMALE,Non-Resident Alien,trad,Marketing,Junior,y,3.559,Tutoring ,Study Hall,Tutoring Center,7,3,18,20,119
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,7,3,15,15,0
+n355,FEMALE,White,trad,Exercise Science,Freshman,y,3.16,Tutoring ,Study Hall,Tutoring Center,7,3,10,11,82
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,7,3,18,20,98
+n70,MALE,White,trad,Exercise Science,Junior,n,2.977,Tutoring ,Study Hall,Tutoring Center,7,4,10,10,29
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,7,4,11,19,493
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,7,4,9,10,56
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,7,4,13,14,65
+n160,MALE,Non-Resident Alien,trad,General Business,Sophomore,y,3.138,Tutoring ,Study Hall,Tutoring Center,7,4,12,15,184
+n77,MALE,Non-Resident Alien,trad,Marketing,Junior,y,2.694,Tutoring ,Study Hall,Tutoring Center,7,4,13,14,56
+n135,MALE,Non-Resident Alien,trad,Marketing,Junior,y,3.235,Tutoring ,Study Hall,Tutoring Center,7,4,9,10,58
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,7,4,10,10,47
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,7,4,21,21,54
+n147,FEMALE,Non-Resident Alien,trad,Journalism,Junior,y,3.516,Tutoring ,Study Hall,Tutoring Center,7,4,18,20,85
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,7,4,19,21,120
+n285,FEMALE,Non-Resident Alien,trad,Marketing,Junior,y,3.559,Tutoring ,Study Hall,Tutoring Center,7,4,18,20,86
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,7,4,10,10,27
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,7,4,14,19,325
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,7,5,9,10,86
+n128,FEMALE,White,trad,Psychology,Junior,n,3.95,Tutoring ,Study Hall,Tutoring Center,7,5,17,17,0
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,7,5,12,13,81
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,7,5,17,19,79
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,7,5,10,12,80
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,7,5,19,19,55
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,7,5,10,19,496
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,7,5,18,21,200
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,7,5,19,21,129
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,7,5,10,12,76
+n160,MALE,Non-Resident Alien,trad,General Business,Sophomore,y,3.138,Tutoring ,Study Hall,Tutoring Center,7,5,13,15,145
+n77,MALE,Non-Resident Alien,trad,Marketing,Junior,y,2.694,Tutoring ,Study Hall,Tutoring Center,7,5,13,15,117
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,7,5,17,22,241
+n140,MALE,White,trad,General Science,Sophomore,y,2.483,Tutoring ,Study Hall,Tutoring Center,7,5,10,12,77
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,7,5,20,21,60
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,7,5,14,18,190
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,7,5,18,19,59
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,7,5,9,9,10
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,7,6,13,13,30
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,7,6,11,12,64
+n78,MALE,Non-Resident Alien,trad,Public Relations,Junior,y,2.494,Tutoring ,Study Hall,Tutoring Center,7,6,13,14,7
+n354,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.053,Tutoring ,Study Hall,Tutoring Center,7,6,12,14,71
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,7,6,10,12,107
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,7,6,11,12,61
+n77,MALE,Non-Resident Alien,trad,Marketing,Junior,y,2.694,Tutoring ,Study Hall,Tutoring Center,7,6,10,11,88
+n365,FEMALE,Non-Resident Alien,trad,Marketing,Senior,y,2.765,Tutoring ,Study Hall,Tutoring Center,7,6,10,11,77
+n18,MALE,Black or African  American,trad,Family and Consumer Science,Junior,y,2.412,Tutoring ,Study Hall,Tutoring Center,7,6,12,13,55
+n28,MALE,White,trad,Exercise Science,Senior,y,3.42,Tutoring ,Study Hall,Tutoring Center,7,6,11,13,131
+n259,MALE,Two or more races,trad,Cybersecurity,Sophomore,n,2.3,Tutoring ,Study Hall,Tutoring Center,7,6,10,12,124
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,7,7,11,15,191
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,8,2,9,9,25
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,8,2,18,20,135
+n70,MALE,White,trad,Exercise Science,Junior,n,2.977,Tutoring ,Study Hall,Tutoring Center,8,2,9,10,68
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,8,2,18,18,40
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,8,2,10,12,113
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,8,2,17,21,260
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,8,2,10,11,58
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,8,2,18,22,216
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,8,2,19,21,79
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,8,2,11,20,541
+n320,MALE,Black or African  American,trad,Mathematics,Freshman,n,1.813,Tutoring ,Study Hall,Tutoring Center,8,2,9,21,720
+n73,MALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.034,Tutoring ,Study Hall,Tutoring Center,8,2,9,13,204
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,8,2,13,13,52
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,8,2,20,22,89
+n147,FEMALE,Non-Resident Alien,trad,Journalism,Junior,y,3.516,Tutoring ,Study Hall,Tutoring Center,8,2,18,20,76
+n47,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.216,Tutoring ,Study Hall,Tutoring Center,8,2,18,20,103
+n285,FEMALE,Non-Resident Alien,trad,Marketing,Junior,y,3.559,Tutoring ,Study Hall,Tutoring Center,8,2,18,20,76
+n6,#N/A,#N/A,#N/A,Instructional Technology,Graduate,n,4,Tutoring ,Study Hall,Tutoring Center,8,2,15,15,0
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,8,3,20,21,76
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,8,3,20,20,0
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,8,3,17,19,100
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,8,3,18,19,108
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,8,3,9,10,92
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,8,3,20,21,73
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,8,3,20,20,0
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,8,3,10,22,670
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,8,3,17,22,264
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,8,3,17,22,277
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,8,3,10,12,106
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,8,3,17,19,100
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,8,3,9,17,512
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,8,3,19,22,164
+n389,FEMALE,Hispanic,trad,"Undergrad Pre-Professional,Health Promotion",Junior,y,3.313,Tutoring ,Study Hall,Tutoring Center,8,3,9,12,179
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,8,3,10,18,501
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,8,3,19,21,113
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,8,3,17,21,222
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,8,3,19,21,107
+n28,MALE,White,trad,Exercise Science,Senior,y,3.42,Tutoring ,Study Hall,Tutoring Center,8,3,10,12,116
+n158,MALE,Hispanic,nontrad,Accounting,Senior,n,3.417,Tutoring ,Study Hall,Tutoring Center,8,3,21,21,0
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,8,3,12,16,270
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,8,4,9,10,75
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,8,4,18,18,0
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,8,4,16,18,114
+n78,MALE,Non-Resident Alien,trad,Public Relations,Junior,y,2.494,Tutoring ,Study Hall,Tutoring Center,8,4,13,21,530
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,8,4,19,21,103
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,8,4,10,16,352
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,8,4,19,21,156
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,8,4,9,10,32
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,8,4,9,9,30
+n160,MALE,Non-Resident Alien,trad,General Business,Sophomore,y,3.138,Tutoring ,Study Hall,Tutoring Center,8,4,9,11,119
+n365,FEMALE,Non-Resident Alien,trad,Marketing,Senior,y,2.765,Tutoring ,Study Hall,Tutoring Center,8,4,9,10,40
+n40,FEMALE,White,trad,Innovation & Entrepreneurship,Senior,n,3.318,Tutoring ,Study Hall,Tutoring Center,8,4,13,13,43
+n147,FEMALE,Non-Resident Alien,trad,Journalism,Junior,y,3.516,Tutoring ,Study Hall,Tutoring Center,8,4,18,20,77
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,8,4,19,21,114
+n285,FEMALE,Non-Resident Alien,trad,Marketing,Junior,y,3.559,Tutoring ,Study Hall,Tutoring Center,8,4,18,20,77
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,8,4,19,21,104
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,8,5,12,13,80
+n240,FEMALE,White,trad,Criminology,Freshman,y,2.107,Tutoring ,Study Hall,Tutoring Center,8,5,11,16,290
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,8,5,12,13,71
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,8,5,18,19,59
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,8,5,18,20,89
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,8,5,17,19,139
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,8,5,19,20,62
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,8,5,13,15,106
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,8,5,10,12,82
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,8,5,9,9,13
+n366,FEMALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.909,Tutoring ,Study Hall,Tutoring Center,8,5,17,20,191
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,8,5,16,21,249
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,8,5,17,19,152
+n262,FEMALE,White,trad,General Business,Freshman,n,0.316,Tutoring ,Study Hall,Tutoring Center,8,5,13,14,23
+n369,FEMALE,White,trad,General Studies,Senior,y,3.3,Tutoring ,Study Hall,Tutoring Center,8,5,17,19,104
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,8,5,16,21,280
+n381,FEMALE,White,trad,Family and Consumer Science,Senior,y,3.6,Tutoring ,Study Hall,Tutoring Center,8,5,17,19,104
+n47,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.216,Tutoring ,Study Hall,Tutoring Center,8,5,17,21,212
+n330,FEMALE,Black or African  American,trad,General Business,Freshman,y,2.667,Tutoring ,Study Hall,Tutoring Center,8,5,17,21,246
+n361,FEMALE,Hispanic,trad,Public Relations,Senior,y,3.514,Tutoring ,Study Hall,Tutoring Center,8,5,20,21,92
+n158,MALE,Hispanic,nontrad,Accounting,Senior,n,3.417,Tutoring ,Study Hall,Tutoring Center,8,5,17,18,37
+n355,FEMALE,White,trad,Exercise Science,Freshman,y,3.16,Tutoring ,Study Hall,Tutoring Center,8,5,11,13,121
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,8,5,17,19,139
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,8,6,10,10,54
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,8,6,12,14,97
+n78,MALE,Non-Resident Alien,trad,Public Relations,Junior,y,2.494,Tutoring ,Study Hall,Tutoring Center,8,6,13,14,57
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,8,6,12,13,59
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,8,6,11,12,79
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,8,7,11,13,101
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,9,1,19,21,105
+n133,FEMALE,White,trad,Psychology (PhD),Graduate,n,4,Tutoring ,Study Hall,Tutoring Center,9,1,18,19,60
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,9,1,16,19,191
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,9,1,19,21,117
+n111,FEMALE,White,trad,Psychology (PhD),Graduate,n,4,Tutoring ,Study Hall,Tutoring Center,9,1,18,19,60
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,9,2,10,21,612
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,9,2,20,21,44
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,9,2,9,10,48
+n389,FEMALE,Hispanic,trad,"Undergrad Pre-Professional,Health Promotion",Junior,y,3.313,Tutoring ,Study Hall,Tutoring Center,9,2,11,12,86
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,9,2,20,22,79
+n240,FEMALE,White,trad,Criminology,Freshman,y,2.107,Tutoring ,Study Hall,Tutoring Center,9,3,10,21,660
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,9,3,12,18,316
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,9,3,10,21,654
+n389,FEMALE,Hispanic,trad,"Undergrad Pre-Professional,Health Promotion",Junior,y,3.313,Tutoring ,Study Hall,Tutoring Center,9,3,14,14,36
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,9,3,17,21,227
+n262,FEMALE,White,trad,General Business,Freshman,n,0.316,Tutoring ,Study Hall,Tutoring Center,9,3,14,14,38
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,9,3,12,14,170
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,9,4,19,21,176
+n354,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.053,Tutoring ,Study Hall,Tutoring Center,9,4,11,18,379
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,9,4,17,21,190
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,9,4,19,21,126
+n147,FEMALE,Non-Resident Alien,trad,Journalism,Junior,y,3.516,Tutoring ,Study Hall,Tutoring Center,9,4,19,21,132
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,9,4,9,11,69
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,9,4,19,21,154
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,9,4,13,16,162
+n82,MALE,White,trad,General Business,Junior,y,2.446,Tutoring ,Study Hall,Tutoring Center,9,5,19,21,138
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,9,5,9,10,97
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,9,5,17,21,262
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,9,5,17,21,262
+n153,MALE,Black or African  American,trad,General Science,Junior,y,2.91,Tutoring ,Study Hall,Tutoring Center,9,5,13,13,0
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,9,5,10,20,589
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,9,5,20,21,98
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,9,5,19,20,59
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,9,5,10,19,534
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,9,5,12,21,592
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,9,5,11,12,23
+n285,FEMALE,Non-Resident Alien,trad,Marketing,Junior,y,3.559,Tutoring ,Study Hall,Tutoring Center,9,5,10,10,29
+n285,FEMALE,Non-Resident Alien,trad,Marketing,Junior,y,3.559,Tutoring ,Study Hall,Tutoring Center,9,5,12,12,22
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,9,5,11,13,78
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,9,5,19,20,59
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,9,5,9,11,148
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,9,6,9,11,123
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,9,6,13,13,0
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,9,6,9,12,128
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,9,6,13,13,19
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,9,6,10,12,81
+n160,MALE,Non-Resident Alien,trad,General Business,Sophomore,y,3.138,Tutoring ,Study Hall,Tutoring Center,9,6,10,12,120
+n389,FEMALE,Hispanic,trad,"Undergrad Pre-Professional,Health Promotion",Junior,y,3.313,Tutoring ,Study Hall,Tutoring Center,9,6,14,14,2
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,9,6,9,13,255
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,9,6,10,12,122
+n47,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.216,Tutoring ,Study Hall,Tutoring Center,9,6,11,13,124
+n355,FEMALE,White,trad,Exercise Science,Freshman,y,3.16,Tutoring ,Study Hall,Tutoring Center,9,6,9,13,264
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,9,6,13,13,20
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,9,6,10,12,82
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,11,2,16,17,41
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,11,2,10,22,668
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,11,2,19,21,91
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,11,2,10,12,97
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,11,2,13,22,539
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,11,2,14,17,196
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,11,2,17,22,275
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,11,2,17,17,0
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,11,3,10,13,193
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,11,3,19,19,32
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,11,3,16,19,136
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,11,3,9,10,57
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,11,3,11,13,167
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,11,3,18,20,113
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,11,3,10,18,450
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,11,3,10,12,96
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,11,3,16,19,131
+n219,FEMALE,White,trad,Public Relations,Junior,y,3,Tutoring ,Study Hall,Tutoring Center,11,3,15,18,126
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,11,3,20,21,83
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,11,3,18,20,112
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,11,4,12,13,38
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,11,4,12,16,231
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,11,4,20,21,56
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,11,4,18,21,226
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,11,4,16,18,132
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,11,4,10,15,295
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,11,4,12,21,561
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,11,4,13,16,152
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,11,4,9,10,49
+n81,MALE,Non-Resident Alien,trad,Computer Information Systems,Senior,n,3.747,Tutoring ,Study Hall,Tutoring Center,11,4,15,15,0
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,11,4,9,11,98
+n31,FEMALE,Non-Resident Alien,trad,Computer Science,Senior,n,3.248,Tutoring ,Study Hall,Tutoring Center,11,4,15,18,211
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,11,4,19,21,101
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,11,4,18,21,147
+n369,FEMALE,White,trad,General Studies,Senior,y,3.3,Tutoring ,Study Hall,Tutoring Center,11,4,10,10,39
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,11,4,19,21,117
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,11,4,11,18,415
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,11,5,12,14,101
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,11,5,10,11,50
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,11,5,18,21,185
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,11,5,10,12,110
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,11,5,9,9,17
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,11,5,20,21,59
+n293,MALE,Non-Resident Alien,trad,Marketing,Freshman,y,3.333,Tutoring ,Study Hall,Tutoring Center,11,5,20,21,49
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,11,5,19,21,83
+n183,MALE,Non-Resident Alien,trad,Computer Science,Sophomore,n,3.911,Tutoring ,Study Hall,Tutoring Center,11,5,16,21,302
+n219,FEMALE,White,trad,Public Relations,Junior,y,3,Tutoring ,Study Hall,Tutoring Center,11,5,18,21,181
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,11,5,18,21,185
+n338,MALE,Non-Resident Alien,trad,Psychology,Senior,y,3.452,Tutoring ,Study Hall,Tutoring Center,11,5,19,21,83
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,11,5,16,18,111
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,11,5,19,21,114
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,11,5,12,20,438
+n66,MALE,Two or more races,trad,Film,Senior,n,3.854,Tutoring ,Study Hall,Tutoring Center,11,5,17,21,294
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,11,5,9,10,90
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,11,6,12,12,33
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,11,6,10,11,91
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,11,6,11,12,59
+n389,FEMALE,Hispanic,trad,"Undergrad Pre-Professional,Health Promotion",Junior,y,3.313,Tutoring ,Study Hall,Tutoring Center,11,6,10,12,104
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,11,7,13,14,100
+n52,MALE,White,trad,"Undergrad Pre-Professional,Biology",Senior,n,3.67,Tutoring ,Study Hall,Tutoring Center,12,1,18,19,50
+n52,MALE,White,trad,"Undergrad Pre-Professional,Biology",Senior,n,3.67,Tutoring ,Study Hall,Tutoring Center,12,1,19,21,91
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,12,1,20,21,104
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,12,1,20,21,104
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,12,2,17,19,88
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,12,2,10,22,666
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,12,2,11,13,130
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,12,2,19,21,130
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,12,2,18,21,197
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,12,2,17,18,65
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,12,2,13,19,351
+n204,FEMALE,White,trad,Biology,Junior,y,3.257,Tutoring ,Study Hall,Tutoring Center,12,2,9,11,116
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,12,2,19,22,156
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,12,2,18,21,211
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,12,2,19,21,122
+n355,FEMALE,White,trad,Exercise Science,Freshman,y,3.16,Tutoring ,Study Hall,Tutoring Center,12,2,11,11,25
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,12,2,9,13,198
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,12,3,10,12,80
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,12,3,19,20,67
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,12,3,9,12,202
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,12,3,19,21,131
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,12,3,16,20,278
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,12,3,10,21,654
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,12,3,18,21,156
+n31,FEMALE,Non-Resident Alien,trad,Computer Science,Senior,n,3.248,Tutoring ,Study Hall,Tutoring Center,12,3,13,21,505
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,12,3,19,21,115
+n219,FEMALE,White,trad,Public Relations,Junior,y,3,Tutoring ,Study Hall,Tutoring Center,12,3,17,21,223
+n184,FEMALE,Asian,trad,Psychology,Freshman,y,3.267,Tutoring ,Study Hall,Tutoring Center,12,3,15,21,348
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,12,3,14,16,111
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,12,3,16,20,278
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,12,4,10,11,54
+n128,FEMALE,White,trad,Psychology,Junior,n,3.95,Tutoring ,Study Hall,Tutoring Center,12,4,17,20,179
+n52,MALE,White,trad,"Undergrad Pre-Professional,Biology",Senior,n,3.67,Tutoring ,Study Hall,Tutoring Center,12,4,20,21,24
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,12,4,9,11,163
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,12,4,17,19,94
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,12,4,10,11,62
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,12,4,20,22,127
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,12,4,18,19,97
+n354,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.053,Tutoring ,Study Hall,Tutoring Center,12,4,11,21,571
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,12,4,18,21,179
+n4,FEMALE,White,nontrad,Psychology,Senior,n,2.731,Tutoring ,Study Hall,Tutoring Center,12,4,17,20,179
+n99,FEMALE,White,trad,Psychology,Junior,n,3.632,Tutoring ,Study Hall,Tutoring Center,12,4,17,20,179
+n1,MALE,White,nontrad,Film,Junior,n,2.425,Tutoring ,Study Hall,Tutoring Center,12,4,15,20,294
+n355,FEMALE,White,trad,Exercise Science,Freshman,y,3.16,Tutoring ,Study Hall,Tutoring Center,12,4,11,22,635
+n173,FEMALE,White,trad,Accounting,Sophomore,n,3.6,Tutoring ,Study Hall,Tutoring Center,12,5,18,19,62
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,12,5,10,13,188
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,12,5,13,13,0
+n240,FEMALE,White,trad,Criminology,Freshman,y,2.107,Tutoring ,Study Hall,Tutoring Center,12,5,18,20,120
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,12,5,18,22,197
+n86,MALE,White,trad,Psychology,Senior,n,4,Tutoring ,Study Hall,Tutoring Center,12,5,13,14,67
+n230,FEMALE,Hispanic,trad,Marketing,Freshman,n,2.143,Tutoring ,Study Hall,Tutoring Center,12,5,18,19,62
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,12,5,18,22,198
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,12,5,19,21,104
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,12,5,17,20,165
+n12,FEMALE,Hispanic,trad,Applied Mathematics,Graduate,n,2.333,Tutoring ,Study Hall,Tutoring Center,12,5,14,21,432
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,12,5,19,21,167
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,12,5,10,12,84
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,12,5,18,20,161
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,12,5,21,22,59
+n366,FEMALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.909,Tutoring ,Study Hall,Tutoring Center,12,5,10,12,101
+n35,FEMALE,White,trad,"Psychology,Philosophy",Senior,n,4,Tutoring ,Study Hall,Tutoring Center,12,5,13,14,72
+n188,MALE,White,trad,Creative Writing,Sophomore,n,3.231,Tutoring ,Study Hall,Tutoring Center,12,5,12,14,95
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,12,5,13,15,104
+n66,MALE,Two or more races,trad,Film,Senior,n,3.854,Tutoring ,Study Hall,Tutoring Center,12,5,19,22,161
+n117,FEMALE,White,trad,Psychology,Senior,n,3.295,Tutoring ,Study Hall,Tutoring Center,12,5,13,14,72
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,12,5,12,12,44
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,12,6,10,12,110
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,12,6,12,12,44
+n366,FEMALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.909,Tutoring ,Study Hall,Tutoring Center,12,6,10,11,25
+n366,FEMALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.909,Tutoring ,Study Hall,Tutoring Center,12,6,11,11,0
+n365,FEMALE,Non-Resident Alien,trad,Marketing,Senior,y,2.765,Tutoring ,Study Hall,Tutoring Center,12,6,9,12,168
+n47,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.216,Tutoring ,Study Hall,Tutoring Center,12,6,10,10,0
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,12,7,10,14,240
+n173,FEMALE,White,trad,Accounting,Sophomore,n,3.6,Tutoring ,Study Hall,Tutoring Center,13,3,9,10,57
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,13,3,10,13,188
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,13,3,17,19,125
+n230,FEMALE,Hispanic,trad,Marketing,Freshman,n,2.143,Tutoring ,Study Hall,Tutoring Center,13,3,9,10,57
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,13,3,13,17,253
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,13,3,9,12,146
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,13,3,10,13,141
+n178,FEMALE,White,trad,"Undergrad Pre-Professional,Chemistry",Sophomore,n,3,Tutoring ,Study Hall,Tutoring Center,13,3,19,20,85
+n77,MALE,Non-Resident Alien,trad,Marketing,Junior,y,2.694,Tutoring ,Study Hall,Tutoring Center,13,3,14,16,97
+n389,FEMALE,Hispanic,trad,"Undergrad Pre-Professional,Health Promotion",Junior,y,3.313,Tutoring ,Study Hall,Tutoring Center,13,3,18,19,61
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,13,3,13,17,253
+n1,MALE,White,nontrad,Film,Junior,n,2.425,Tutoring ,Study Hall,Tutoring Center,13,3,14,14,1
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,13,3,20,21,88
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,13,3,15,16,34
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,13,3,13,17,253
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,13,4,15,22,377
+n198,FEMALE,Black or African  American,trad,Family and Consumer Science,Sophomore,y,1.969,Tutoring ,Study Hall,Tutoring Center,13,4,18,20,83
+n294,FEMALE,Two or more races,trad,General Business,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,13,4,18,20,83
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,13,4,9,12,218
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,13,4,18,19,83
+n77,MALE,Non-Resident Alien,trad,Marketing,Junior,y,2.694,Tutoring ,Study Hall,Tutoring Center,13,4,12,13,84
+n31,FEMALE,Non-Resident Alien,trad,Computer Science,Senior,n,3.248,Tutoring ,Study Hall,Tutoring Center,13,4,13,17,232
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,13,4,13,14,26
+n262,FEMALE,White,trad,General Business,Freshman,n,0.316,Tutoring ,Study Hall,Tutoring Center,13,4,14,14,15
+n219,FEMALE,White,trad,Public Relations,Junior,y,3,Tutoring ,Study Hall,Tutoring Center,13,4,17,21,244
+n338,MALE,Non-Resident Alien,trad,Psychology,Senior,y,3.452,Tutoring ,Study Hall,Tutoring Center,13,4,20,22,71
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,13,5,16,19,155
+n360,FEMALE,Two or more races,trad,Criminology,Senior,y,3.735,Tutoring ,Study Hall,Tutoring Center,13,5,15,22,366
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,13,5,11,13,96
+n306,MALE,Black or African  American,trad,Physical Education K-12,Freshman,y,1.19,Tutoring ,Study Hall,Tutoring Center,13,5,15,22,368
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,13,5,17,20,163
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,13,5,18,20,127
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,13,5,17,21,271
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,13,5,11,20,531
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,13,5,12,14,120
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,13,5,9,12,189
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,13,5,10,12,89
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,13,5,18,20,157
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,13,5,13,16,197
+n389,FEMALE,Hispanic,trad,"Undergrad Pre-Professional,Health Promotion",Junior,y,3.313,Tutoring ,Study Hall,Tutoring Center,13,5,10,13,158
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,13,5,19,21,176
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,13,5,19,21,102
+n330,FEMALE,Black or African  American,trad,General Business,Freshman,y,2.667,Tutoring ,Study Hall,Tutoring Center,13,5,16,18,124
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,13,5,12,17,326
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,13,5,9,13,245
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,13,6,9,12,169
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,13,6,10,12,123
+n354,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.053,Tutoring ,Study Hall,Tutoring Center,13,6,9,12,213
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,13,6,12,14,96
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,13,6,12,12,41
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,13,7,10,15,241
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,13,7,10,11,72
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,14,1,16,18,163
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,14,1,16,18,124
+n219,FEMALE,White,trad,Public Relations,Junior,y,3,Tutoring ,Study Hall,Tutoring Center,14,1,16,20,253
+n1,MALE,White,nontrad,Film,Junior,n,2.425,Tutoring ,Study Hall,Tutoring Center,14,1,19,20,84
+n52,MALE,White,trad,"Undergrad Pre-Professional,Biology",Senior,n,3.67,Tutoring ,Study Hall,Tutoring Center,14,2,15,16,18
+n52,MALE,White,trad,"Undergrad Pre-Professional,Biology",Senior,n,3.67,Tutoring ,Study Hall,Tutoring Center,14,2,16,16,0
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,14,2,16,16,0
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,14,2,12,21,532
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,14,2,19,21,80
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,14,2,10,11,100
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,14,2,16,16,0
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,14,2,10,16,328
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,14,2,16,16,0
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,14,2,17,20,174
+n262,FEMALE,White,trad,General Business,Freshman,n,0.316,Tutoring ,Study Hall,Tutoring Center,14,2,12,21,490
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,14,3,9,10,70
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,14,3,10,13,195
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,14,3,17,17,31
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,14,3,18,20,130
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,14,3,10,12,96
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,14,4,17,19,79
+n333,MALE,Black or African  American,trad,Health Promotion,Freshman,y,1.889,Tutoring ,Study Hall,Tutoring Center,14,4,10,18,457
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,14,4,10,17,412
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,14,4,20,20,4
+n67,FEMALE,White,trad,General Business,Senior,y,3.6,Tutoring ,Study Hall,Tutoring Center,14,4,19,20,82
+n325,MALE,Hispanic,trad,Health Promotion,Freshman,y,2.323,Tutoring ,Study Hall,Tutoring Center,14,4,20,21,69
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,14,4,10,10,39
+n292,FEMALE,Hispanic,trad,Family and Consumer Science,Sophomore,y,2.968,Tutoring ,Study Hall,Tutoring Center,14,4,17,20,167
+n124,MALE,Two or more races,trad,Public Relations,Junior,y,2.247,Tutoring ,Study Hall,Tutoring Center,14,4,20,20,7
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,14,4,16,21,281
+n147,FEMALE,Non-Resident Alien,trad,Journalism,Junior,y,3.516,Tutoring ,Study Hall,Tutoring Center,14,4,19,20,83
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,14,4,19,21,123
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,14,4,11,18,411
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,14,5,13,16,181
+n211,FEMALE,White,trad,"Health Promotion,Health Coaching (CP)",Freshman,y,2.273,Tutoring ,Study Hall,Tutoring Center,14,5,17,19,98
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,14,5,15,20,337
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,14,5,17,19,114
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,14,5,10,12,93
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,14,5,18,21,152
+n262,FEMALE,White,trad,General Business,Freshman,n,0.316,Tutoring ,Study Hall,Tutoring Center,14,5,13,20,388
+n47,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.216,Tutoring ,Study Hall,Tutoring Center,14,5,15,19,275
+n134,MALE,White,trad,Finance,Sophomore,y,2.081,Tutoring ,Study Hall,Tutoring Center,14,5,12,16,228
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,14,5,17,21,274
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,14,5,9,12,173
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,14,6,10,12,151
+n354,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.053,Tutoring ,Study Hall,Tutoring Center,14,6,12,14,89
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,14,6,13,14,60
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,14,6,9,10,57
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,14,6,13,13,14
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,14,6,11,12,94
+n177,MALE,Black or African  American,trad,Marketing,Freshman,y,2.429,Tutoring ,Study Hall,Tutoring Center,14,7,10,14,241
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,14,7,14,14,15
+n254,FEMALE,White,trad,General Business,Freshman,y,2.375,Tutoring ,Study Hall,Tutoring Center,15,1,18,21,200
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,15,2,11,11,45
+n237,FEMALE,White,trad,General Science,Junior,y,3.875,Tutoring ,Study Hall,Tutoring Center,15,2,15,19,267
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,15,2,16,21,296
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,15,2,9,10,67
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,15,2,12,13,67
+n244,FEMALE,White,trad,General Business,Sophomore,y,4,Tutoring ,Study Hall,Tutoring Center,15,2,16,20,269
+n355,FEMALE,White,trad,Exercise Science,Freshman,y,3.16,Tutoring ,Study Hall,Tutoring Center,15,2,10,11,45
+n245,FEMALE,White,trad,"Family and Consumer Science,Nursing Pre-BSN",Sophomore,y,3.594,Tutoring ,Study Hall,Tutoring Center,15,2,15,19,267
+n80,FEMALE,Black or African  American,trad,Health Promotion,Junior,y,2.767,Tutoring ,Study Hall,Tutoring Center,15,2,13,18,245
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,15,3,9,10,72
+n341,MALE,Black or African  American,trad,Cybersecurity Management,Junior,y,2.632,Tutoring ,Study Hall,Tutoring Center,15,3,12,13,86
+n182,FEMALE,Hispanic,trad,General Business,Sophomore,y,2.7,Tutoring ,Study Hall,Tutoring Center,15,3,10,11,67
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,15,3,9,12,156
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,15,3,18,21,163
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,15,3,10,22,680
+n227,FEMALE,Two or more races,trad,General Business,Sophomore,y,3.5,Tutoring ,Study Hall,Tutoring Center,15,3,9,12,156
+n391,MALE,Black or African  American,trad,Accounting,Junior,y,4,Tutoring ,Study Hall,Tutoring Center,15,3,10,22,680
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,15,3,13,21,479
+n338,MALE,Non-Resident Alien,trad,Psychology,Senior,y,3.452,Tutoring ,Study Hall,Tutoring Center,15,3,16,22,315
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,15,3,11,13,131
+n387,FEMALE,Hispanic,trad,Comm Sciences & Disorders,Freshman,y,3.167,Tutoring ,Study Hall,Tutoring Center,15,4,18,21,169
+n150,FEMALE,White,trad,Marketing,Sophomore,y,2.545,Tutoring ,Study Hall,Tutoring Center,15,4,16,19,223
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,15,4,13,15,108
+n390,MALE,Non-Resident Alien,trad,Family and Consumer Science,Senior,y,3.2,Tutoring ,Study Hall,Tutoring Center,15,4,12,22,598
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,15,4,11,12,83
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,15,4,21,22,52
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,15,4,19,21,111
+n219,FEMALE,White,trad,Public Relations,Junior,y,3,Tutoring ,Study Hall,Tutoring Center,15,4,19,21,162
+n112,MALE,White,trad,General Business,Senior,y,3.197,Tutoring ,Study Hall,Tutoring Center,15,4,21,22,51
+n66,MALE,Two or more races,trad,Film,Senior,n,3.854,Tutoring ,Study Hall,Tutoring Center,15,4,20,21,88
+n355,FEMALE,White,trad,Exercise Science,Freshman,y,3.16,Tutoring ,Study Hall,Tutoring Center,15,4,11,11,46
+n388,FEMALE,White,trad,Special Education,Freshman,y,1.667,Tutoring ,Study Hall,Tutoring Center,15,5,13,16,223
+n332,MALE,Non-Resident Alien,trad,Health Promotion,Senior,y,2.931,Tutoring ,Study Hall,Tutoring Center,15,5,15,21,365
+n59,FEMALE,Black or African  American,trad,Biology,Junior,n,1.738,Tutoring ,Study Hall,Tutoring Center,15,5,19,21,168
+n338,MALE,Non-Resident Alien,trad,Psychology,Senior,y,3.452,Tutoring ,Study Hall,Tutoring Center,15,5,15,21,372
+n224,FEMALE,Black or African  American,trad,Health Promotion,Sophomore,y,2.528,Tutoring ,Study Hall,Tutoring Center,15,6,11,14,166
+n354,FEMALE,Black or African  American,trad,Family and Consumer Science,Junior,y,3.053,Tutoring ,Study Hall,Tutoring Center,15,6,10,13,203
+n365,FEMALE,Non-Resident Alien,trad,Marketing,Senior,y,2.765,Tutoring ,Study Hall,Tutoring Center,15,6,9,13,238
+n287,MALE,Non-Resident Alien,trad,Innovation & Entrepreneurship,Sophomore,y,2.767,Tutoring ,Study Hall,Tutoring Center,15,7,12,14,118
+n336,MALE,Hispanic,trad,General Business,Sophomore,y,2.321,Tutoring ,Study Hall,Tutoring Center,15,7,12,13,107
+n203,FEMALE,Two or more races,trad,Medical Laboratory Science,Sophomore,y,2.143,Tutoring ,Study Hall,Tutoring Center,16,1,17,21,237
+n261,FEMALE,White,trad,"Health Promotion,Undergrad Pre-Professional",Freshman,n,3,Tutoring ,Study Hall,Tutoring Center,16,1,20,21,46
+n167,FEMALE,Black or African  American,trad,Social Studies,Sophomore,n,3.9,Tutoring ,Study Hall,Tutoring Center,16,1,19,21,105
+n312,FEMALE,Hispanic,trad,Exercise Science,Sophomore,y,3.452,Tutoring ,Study Hall,Tutoring Center,16,2,9,20,626
+n332,MALE,Non-Resident Alien,trad,Health Promotion,Senior,y,2.931,Tutoring ,Study Hall,Tutoring Center,16,2,17,21,237
+n298,FEMALE,Non-Resident Alien,trad,Criminology,Freshman,y,3.444,Tutoring ,Study Hall,Tutoring Center,16,2,17,17,5
+n393,MALE,White,trad,Family and Consumer Science,Sophomore,y,3.4,Tutoring ,Study Hall,Tutoring Center,16,2,21,22,26
+n338,MALE,Non-Resident Alien,trad,Psychology,Senior,y,3.452,Tutoring ,Study Hall,Tutoring Center,16,2,17,22,254
+n338,MALE,Non-Resident Alien,trad,Psychology,Senior,y,3.452,Tutoring ,Study Hall,Tutoring Center,16,2,10,12,97
+n332,MALE,Non-Resident Alien,trad,Health Promotion,Senior,y,2.931,Tutoring ,Study Hall,Tutoring Center,16,3,18,22,223
+n338,MALE,Non-Resident Alien,trad,Psychology,Senior,y,3.452,Tutoring ,Study Hall,Tutoring Center,16,3,18,22,223
+n128,FEMALE,White,trad,Psychology,Junior,n,3.95,Tutoring ,Study Hall,Tutoring Center,16,4,13,13,0
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,16,5,13,15,125
+n357,FEMALE,White,trad,Health Promotion,Junior,y,2.333,Tutoring ,Study Hall,Tutoring Center,16,5,16,19,138
