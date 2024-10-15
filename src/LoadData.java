@@ -5,7 +5,6 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
-// Test commit for Github issues
 public class LoadData {
     private static final String NA_FIELD = "#N/A";
     public List<Student> loadStudents(String filePath) throws IOException {

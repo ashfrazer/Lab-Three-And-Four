@@ -5,14 +5,18 @@ public class DataVisualizer {
     public static void main(String[] args) throws IOException {
         LoadData loadData = new LoadData();
 
-        // TO-DO: Fix this so that the filepath is universal for others
-        String filepath = "C:\\Users\\Ash\\IdeaProjects\\Lab Three\\src\\fall23_filtered_checkin_data.txt";
+        // Declare file paths for fall and spring datasets
+        String filepath_fall = "src/fall23_filtered_checkin_data.txt";
+        String filepath_spring = "src/spr23_filtered_checkin_data.txt";
 
-        // Create list of students
-        List<Student> students = loadData.loadStudents(filepath);
+        // Create list of students from fall semester dataset
+        List<Student> students_fall = loadData.loadStudents(filepath_fall);
 
-        for (Student student : students) {
-            System.out.println(student);
-        }
+        // Create list of students from spring semester dataset
+        List<Student> students_spring = loadData.loadStudents(filepath_spring);
+
+        StatsPanel statsPanel = new StatsPanel();
+
+        System.out.println(statsPanel.getMean(students_fall));
     }
 }
