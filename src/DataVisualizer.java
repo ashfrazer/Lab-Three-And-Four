@@ -15,8 +15,11 @@ public class DataVisualizer {
         // Create list of students from spring semester dataset
         List<Student> students_spring = loadData.loadStudents(filepath_spring);
 
+        // Initialize StatsPanel object
         StatsPanel statsPanel = new StatsPanel();
 
-        System.out.println(statsPanel.getMean(students_fall));
+        // Initialize StatsCalculator object
+        StatsCalculator statsCalculator = new StatsCalculator();
+
     }
 }

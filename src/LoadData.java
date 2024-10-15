@@ -2,14 +2,16 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class LoadData {
     private static final String NA_FIELD = "#N/A";
     public List<Student> loadStudents(String filePath) throws IOException {
         // List of students
         List<Student> students = new ArrayList<>();
+
+        // Set of student IDs (to avoid duplicate entries)
+        Set<String> uniqueIds = new HashSet<>();
 
         // Read in file
         BufferedReader br = Files.newBufferedReader(Paths.get(filePath));
@@ -53,8 +55,11 @@ public class LoadData {
                     continue;
                 }
 
-                // Add student to the list
-                students.add(new Student(id, gender, ethnicity, status, major, classification, isAthlete, gpa));
+                // Add student to the list and set if they are not already added
+                if (!uniqueIds.contains(id)) {
+                    uniqueIds.add(id);
+                    students.add(new Student(id, gender, ethnicity, status, major, classification, isAthlete, gpa));
+                }
             }
 
         return students;
