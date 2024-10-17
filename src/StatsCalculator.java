@@ -26,7 +26,6 @@ public class StatsCalculator {
         }
 
         // Calculate and return the mean
-        // Calculates numeric data
         return sum / students.size();
     }
 
