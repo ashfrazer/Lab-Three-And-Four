@@ -4,65 +4,69 @@ import java.io.IOException;
 import java.util.List;
 
 public class DataVisualizer extends JFrame {
-    private JTabbedPane tabbedPane; // Tabs to switch between spring and fall data
+    private JTabbedPane tabbedPane;
     private StatsPanel statsPanelFall;
     private StatsPanel statsPanelSpring;
     private JPanel statsPanelContainer;
+    private ChartPanelStats chartPanelStats;
 
     public DataVisualizer() throws IOException {
         LoadData loadData = new LoadData();
 
-        // Declare file paths for fall and spring datasets
         String filepath_fall = "src/fall23_filtered_checkin_data.txt";
         String filepath_spring = "src/spr23_filtered_checkin_data.txt";
 
-        // Create list of students from fall semester dataset
         List<Student> students_fall = loadData.loadStudents(filepath_fall);
-
-        // Create list of students from spring semester dataset
         List<Student> students_spring = loadData.loadStudents(filepath_spring);
 
-        // Initialize components
         tabbedPane = new JTabbedPane();
         TablePanel tablePanelFall = new TablePanel(students_fall);
         TablePanel tablePanelSpring = new TablePanel(students_spring);
         statsPanelFall = new StatsPanel(students_fall);
         statsPanelSpring = new StatsPanel(students_spring);
 
-        /*
-        * TO-DO:
-        * ChartPanel chartPanel = new ChartPanel(students_fall);
-        * Sort columns?
-        * Filters
-        */
+        chartPanelStats = new ChartPanelStats(students_spring);
 
-        // Add tabs for spring and fall
-        tabbedPane.addTab("Spring 2023 Data", tablePanelSpring);
-        tabbedPane.addTab("Fall 2023 Data", tablePanelFall);
+        JPanel labelPanel = new JPanel(new GridLayout(2, 1));
+        JLabel titleLabel = new JLabel("DISCLAIMER: UNOFFICIAL DATA", JLabel.CENTER);
+        titleLabel.setFont(new Font("Arial", Font.BOLD, 16));
+        titleLabel.setForeground(Color.RED);
 
-        // Container for StatsPanel
+        JLabel subTitleLabel = new JLabel("UCA Tutoring Center Study Hall Data", JLabel.CENTER);
+        subTitleLabel.setFont(new Font("Arial", Font.BOLD, 18));
+
+        labelPanel.add(subTitleLabel);
+        labelPanel.add(titleLabel);
+
+        JPanel topPanel = new JPanel(new BorderLayout());
+        topPanel.add(labelPanel, BorderLayout.NORTH);
         statsPanelContainer = new JPanel(new BorderLayout());
         statsPanelContainer.add(statsPanelSpring, BorderLayout.CENTER);
+        topPanel.add(statsPanelContainer, BorderLayout.CENTER);
+
+        tabbedPane.addTab("Spring 2023", tablePanelSpring);
+        tabbedPane.addTab("Fall 2023", tablePanelFall);
 
         // Set up layout
         setLayout(new BorderLayout());
+        add(topPanel, BorderLayout.NORTH);
         add(tabbedPane, BorderLayout.CENTER);
-        add(statsPanelContainer, BorderLayout.NORTH);
-        //add(chartPanel, BorderLayout.SOUTH);
+        add(chartPanelStats, BorderLayout.SOUTH); // Keep the chart at the bottom
 
-        // Update stats when user clicks different tab
+        // Update stats and chart when user clicks different tab
         tabbedPane.addChangeListener(e -> {
-            statsPanelContainer.removeAll(); // Remove existing panel
+            statsPanelContainer.removeAll();
 
             if (tabbedPane.getSelectedIndex() == 0) { // Spring tab
                 statsPanelSpring.updateStudents(students_spring);
                 statsPanelContainer.add(statsPanelSpring, BorderLayout.CENTER);
+                chartPanelStats.updateChart(students_spring); // Update chart for spring data
             } else { // Fall tab
                 statsPanelFall.updateStudents(students_fall);
                 statsPanelContainer.add(statsPanelFall, BorderLayout.CENTER);
+                chartPanelStats.updateChart(students_fall); // Update chart for fall data
             }
 
-            // Display new panel
             statsPanelContainer.revalidate();
             statsPanelContainer.repaint();
         });
@@ -77,5 +81,4 @@ public class DataVisualizer extends JFrame {
     public static void main(String[] args) throws IOException {
         new DataVisualizer();
     }
-
 }

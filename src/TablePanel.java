@@ -23,6 +23,9 @@ public class TablePanel extends JPanel {
         };
         table = new JTable(tableModel);
 
+        // Enable sorting
+        table.setAutoCreateRowSorter(true);
+
         // Add student data to table
         addStudents(students);
 

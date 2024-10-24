@@ -50,6 +50,9 @@ public class LoadData {
                 try {
                     // Parse the GPA
                     gpa = Double.parseDouble(gpaString);
+
+                    // Round GPA to two decimal places
+                    gpa = Math.round(gpa * 100.0) / 100.0;
                 } catch (NumberFormatException e) {
                     // Skip student if GPA is invalid
                     continue;
