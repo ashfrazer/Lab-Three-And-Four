@@ -9,6 +9,7 @@ public class DataVisualizer extends JFrame {
     private StatsPanel statsPanelSpring;
     private JPanel statsPanelContainer;
     private ChartPanelStats chartPanelStats;
+    private DetailsPanel detailsPanel;
 
     public DataVisualizer() throws IOException {
         LoadData loadData = new LoadData();
@@ -27,6 +28,8 @@ public class DataVisualizer extends JFrame {
 
         chartPanelStats = new ChartPanelStats(students_spring);
 
+        detailsPanel = new DetailsPanel();
+
         JPanel labelPanel = new JPanel(new GridLayout(2, 1));
         JLabel titleLabel = new JLabel("DISCLAIMER: UNOFFICIAL DATA", JLabel.CENTER);
         titleLabel.setFont(new Font("Arial", Font.BOLD, 16));
@@ -40,6 +43,7 @@ public class DataVisualizer extends JFrame {
 
         JPanel topPanel = new JPanel(new BorderLayout());
         topPanel.add(labelPanel, BorderLayout.NORTH);
+
         statsPanelContainer = new JPanel(new BorderLayout());
         statsPanelContainer.add(statsPanelSpring, BorderLayout.CENTER);
         topPanel.add(statsPanelContainer, BorderLayout.CENTER);
@@ -48,9 +52,12 @@ public class DataVisualizer extends JFrame {
         tabbedPane.addTab("Fall 2023", tablePanelFall);
 
         // Set up layout
+        JSplitPane splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, tabbedPane, detailsPanel);
+        splitPane.setDividerLocation(800);
+
         setLayout(new BorderLayout());
         add(topPanel, BorderLayout.NORTH);
-        add(tabbedPane, BorderLayout.CENTER);
+        add(splitPane, BorderLayout.CENTER);
         add(chartPanelStats, BorderLayout.SOUTH); // Keep the chart at the bottom
 
         // Update stats and chart when user clicks different tab
@@ -69,6 +76,26 @@ public class DataVisualizer extends JFrame {
 
             statsPanelContainer.revalidate();
             statsPanelContainer.repaint();
+        });
+
+        // Add listener to update details panel
+        tablePanelSpring.getTable().getSelectionModel().addListSelectionListener(e -> {
+            int selection = tablePanelSpring.getTable().getSelectedRow();
+            if (selection != -1) {
+                Student selectedStudent = students_spring.get(tablePanelSpring.getTable().
+                        convertRowIndexToModel(selection));
+                // Update details panel
+                detailsPanel.updateDetails(selectedStudent);
+            }
+        });
+        tablePanelFall.getTable().getSelectionModel().addListSelectionListener(e -> {
+                    int selection = tablePanelFall.getTable().getSelectedRow();
+                    if (selection != -1) {
+                        Student selectedStudent = students_fall.get(tablePanelFall.getTable().
+                                convertRowIndexToModel(selection));
+                        // Update details panel
+                        detailsPanel.updateDetails(selectedStudent);
+                    }
         });
 
         // Window settings

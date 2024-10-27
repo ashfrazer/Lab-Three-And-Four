@@ -2,15 +2,17 @@ import javax.swing.*;
 import java.awt.*;
 
 public class DetailsPanel extends JPanel {
-    private JLabel detailsLabel;
+    private JTextArea detailsTextArea;
 
     public DetailsPanel() {
         setLayout(new BorderLayout());
-        detailsLabel = new JLabel("Select a student to see details.");
-        add(detailsLabel, BorderLayout.CENTER);
+        detailsTextArea = new JTextArea("Select a student to see details.");
+        detailsTextArea.setEditable(false);
+        detailsTextArea.setFont(new Font("Arial", Font.PLAIN, 14));
+        add(new JScrollPane(detailsTextArea), BorderLayout.CENTER);
     }
 
     public void updateDetails(Student student) {
-        detailsLabel.setText(student.toString());
+        detailsTextArea.setText(student.toString());
     }
 }

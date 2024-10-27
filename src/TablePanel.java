@@ -35,10 +35,10 @@ public class TablePanel extends JPanel {
 
     // Add students to table
     private void addStudents(List<Student> students) {
-        // Clear existing rows in the table model
+        // Clear existing rows in the table
         tableModel.setRowCount(0);
 
-        // Add each student as a row in the table model
+        // Add each student as a row in the table
         for (Student student : students) {
             Object[] rowData = {
                     student.id(),
@@ -54,9 +54,7 @@ public class TablePanel extends JPanel {
         }
     }
 
-    // Public method to update the students in the table
     public void updateStudents(List<Student> students) {
-        // Call the method to add the new student data to the table
         addStudents(students);
     }
 
