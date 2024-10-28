@@ -4,6 +4,17 @@ import java.io.IOException;
 import java.util.List;
 
 public class DataVisualizer extends JFrame {
+    /*
+     * PLEASE READ:
+     * This is a program that processes information about students who check in to Study Hall (UNOFFICIAL DATA).
+     * If you want to sort columns by ascending or descending order, please click on the column itself and it will be
+     * sorted. Navigate through the panes (Spring and Fall) to explore different sets of students. Please note that
+     * each student ID is pseudonymous for anonymity, and again, this data is UNOFFICIAL and solely used for
+     * educational purposes.
+     *
+     * Thank you!
+     */
+
     private JTabbedPane tabbedPane;
     private StatsPanel statsPanelFall;
     private StatsPanel statsPanelSpring;
