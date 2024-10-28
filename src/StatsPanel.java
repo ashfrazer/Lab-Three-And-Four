@@ -33,9 +33,14 @@ public class StatsPanel extends JPanel {
 
     // Update StatsPanel if user changes sample of students (tabs)
     public void updateStudents(List<Student> students) {
-        for (int i = 0; i < labels.length; i++) {
-            // Extracts first part of label's text (such as "GPA Mean") and retrieves new stat value
-            labels[i].setText(labels[i].getText().split(": ")[0] + ": " + getStat(i, students));
+        if (students.isEmpty()) {
+            for (int i = 0; i < labels.length; i++) {
+                labels[i].setText(labels[i].getText().split(": ")[0] + ": none");
+            }
+        } else {
+            for (int i = 0; i < labels.length; i++) {
+                labels[i].setText(labels[i].getText().split(": ")[0] + ": " + getStat(i, students));
+            }
         }
         revalidate();
         repaint();

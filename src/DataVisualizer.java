@@ -11,6 +11,18 @@ public class DataVisualizer extends JFrame {
     private ChartPanelStats chartPanelStats;
     private DetailsPanel detailsPanel;
 
+    // Store filtered students
+    private List<Student> filteredStudentsFall;
+    private List<Student> filteredStudentsSpring;
+
+    // Constants
+    private int TITLELABELSIZE = 16;
+    private int SUBTITLELABELSIZE = 18;
+    private String LABELFONT = "Arial";
+    private int DIVIDERLOCATION = 800;
+    private int WINDOWWIDTH = 1200;
+    private int WINDOWHEIGHT = 800;
+
     public DataVisualizer() throws IOException {
         LoadData loadData = new LoadData();
 
@@ -20,23 +32,28 @@ public class DataVisualizer extends JFrame {
         List<Student> students_fall = loadData.loadStudents(filepath_fall);
         List<Student> students_spring = loadData.loadStudents(filepath_spring);
 
+        // Initialize filtered lists
+        filteredStudentsFall = students_fall;
+        filteredStudentsSpring = students_spring;
+
+        // Initialize components
         tabbedPane = new JTabbedPane();
         TablePanel tablePanelFall = new TablePanel(students_fall);
         TablePanel tablePanelSpring = new TablePanel(students_spring);
-        statsPanelFall = new StatsPanel(students_fall);
-        statsPanelSpring = new StatsPanel(students_spring);
+        statsPanelFall = new StatsPanel(filteredStudentsFall);
+        statsPanelSpring = new StatsPanel(filteredStudentsSpring);
 
-        chartPanelStats = new ChartPanelStats(students_spring);
+        chartPanelStats = new ChartPanelStats(filteredStudentsSpring);
 
         detailsPanel = new DetailsPanel();
 
         JPanel labelPanel = new JPanel(new GridLayout(2, 1));
         JLabel titleLabel = new JLabel("DISCLAIMER: UNOFFICIAL DATA", JLabel.CENTER);
-        titleLabel.setFont(new Font("Arial", Font.BOLD, 16));
+        titleLabel.setFont(new Font(LABELFONT, Font.BOLD, TITLELABELSIZE));
         titleLabel.setForeground(Color.RED);
 
         JLabel subTitleLabel = new JLabel("UCA Tutoring Center Study Hall Data", JLabel.CENTER);
-        subTitleLabel.setFont(new Font("Arial", Font.BOLD, 18));
+        subTitleLabel.setFont(new Font(LABELFONT, Font.BOLD, SUBTITLELABELSIZE));
 
         labelPanel.add(subTitleLabel);
         labelPanel.add(titleLabel);
@@ -48,30 +65,31 @@ public class DataVisualizer extends JFrame {
         statsPanelContainer.add(statsPanelSpring, BorderLayout.CENTER);
         topPanel.add(statsPanelContainer, BorderLayout.CENTER);
 
+        // Create tabs for Spring and Fall data
         tabbedPane.addTab("Spring 2023", tablePanelSpring);
         tabbedPane.addTab("Fall 2023", tablePanelFall);
 
         // Set up layout
         JSplitPane splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, tabbedPane, detailsPanel);
-        splitPane.setDividerLocation(800);
+        splitPane.setDividerLocation(DIVIDERLOCATION);
 
         setLayout(new BorderLayout());
-        add(topPanel, BorderLayout.NORTH);
-        add(splitPane, BorderLayout.CENTER);
-        add(chartPanelStats, BorderLayout.SOUTH); // Keep the chart at the bottom
+        add(topPanel, BorderLayout.NORTH); // Keeps StatsPanel at the top
+        add(splitPane, BorderLayout.CENTER); // Keeps TablePanel and DetailsPanel in the center
+        add(chartPanelStats, BorderLayout.SOUTH); // Keeps ChartPanel at the bottom
 
         // Update stats and chart when user clicks different tab
         tabbedPane.addChangeListener(e -> {
             statsPanelContainer.removeAll();
 
             if (tabbedPane.getSelectedIndex() == 0) { // Spring tab
-                statsPanelSpring.updateStudents(students_spring);
+                statsPanelSpring.updateStudents(filteredStudentsSpring);
                 statsPanelContainer.add(statsPanelSpring, BorderLayout.CENTER);
-                chartPanelStats.updateChart(students_spring); // Update chart for spring data
+                chartPanelStats.updateChart(filteredStudentsSpring); // Update chart for spring data
             } else { // Fall tab
-                statsPanelFall.updateStudents(students_fall);
+                statsPanelFall.updateStudents(filteredStudentsFall);
                 statsPanelContainer.add(statsPanelFall, BorderLayout.CENTER);
-                chartPanelStats.updateChart(students_fall); // Update chart for fall data
+                chartPanelStats.updateChart(filteredStudentsFall); // Update chart for fall data
             }
 
             statsPanelContainer.revalidate();
@@ -82,25 +100,38 @@ public class DataVisualizer extends JFrame {
         tablePanelSpring.getTable().getSelectionModel().addListSelectionListener(e -> {
             int selection = tablePanelSpring.getTable().getSelectedRow();
             if (selection != -1) {
-                Student selectedStudent = students_spring.get(tablePanelSpring.getTable().
+                Student selectedStudent = filteredStudentsSpring.get(tablePanelSpring.getTable().
                         convertRowIndexToModel(selection));
                 // Update details panel
                 detailsPanel.updateDetails(selectedStudent);
             }
         });
         tablePanelFall.getTable().getSelectionModel().addListSelectionListener(e -> {
-                    int selection = tablePanelFall.getTable().getSelectedRow();
-                    if (selection != -1) {
-                        Student selectedStudent = students_fall.get(tablePanelFall.getTable().
-                                convertRowIndexToModel(selection));
-                        // Update details panel
-                        detailsPanel.updateDetails(selectedStudent);
-                    }
+            int selection = tablePanelFall.getTable().getSelectedRow();
+            if (selection != -1) {
+                Student selectedStudent = filteredStudentsFall.get(tablePanelFall.getTable().
+                        convertRowIndexToModel(selection));
+                // Update details panel
+                detailsPanel.updateDetails(selectedStudent);
+            }
+        });
+
+        // Update ChartPanel and StatsPanel when filters are applied
+        tablePanelSpring.addFilterListener(filteredStudents -> {
+            filteredStudentsSpring = filteredStudents; // Update filtered data for Spring
+            statsPanelSpring.updateStudents(filteredStudentsSpring);
+            chartPanelStats.updateChart(filteredStudentsSpring);
+        });
+
+        tablePanelFall.addFilterListener(filteredStudents -> {
+            filteredStudentsFall = filteredStudents; // Update filtered data for Fall
+            statsPanelFall.updateStudents(filteredStudentsFall);
+            chartPanelStats.updateChart(filteredStudentsFall);
         });
 
         // Window settings
         setTitle("Student Statistics and Data");
-        setSize(1200, 800);
+        setSize(WINDOWWIDTH, WINDOWHEIGHT);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
     }

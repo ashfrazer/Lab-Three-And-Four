@@ -8,6 +8,9 @@ import java.awt.*;
 import java.util.List;
 
 public class ChartPanelStats extends JPanel {
+    private int PANELWIDTH = 800;
+    private int PANELHEIGHT = 300;
+    private int NO_BINS = 50;
 
     public ChartPanelStats(List<Student> students) {
         setLayout(new BorderLayout());
@@ -15,9 +18,14 @@ public class ChartPanelStats extends JPanel {
     }
 
     public void updateChart(List<Student> students) {
+        // Clear chart if no students are returned by TablePanel (no results for filters)
+        if (students.isEmpty()) {
+            clearChart();
+            return;
+        }
+
         // Create new histogram dataset
         HistogramDataset dataset = new HistogramDataset();
-
         // Array to hold GPAs
         double[] gpas = new double[students.size()];
         for (int i = 0; i < students.size(); i++) {
@@ -25,7 +33,7 @@ public class ChartPanelStats extends JPanel {
         }
 
         // Adds GPAs to dataset
-        dataset.addSeries("GPA Distribution", gpas, 50);
+        dataset.addSeries("GPA Distribution", gpas, NO_BINS);
 
         // Create histogram
         JFreeChart histogram = ChartFactory.createHistogram(
@@ -41,11 +49,18 @@ public class ChartPanelStats extends JPanel {
 
         // Chart settings
         ChartPanel chartPanel = new ChartPanel(histogram);
-        chartPanel.setPreferredSize(new Dimension(800, 300));
-
+        chartPanel.setPreferredSize(new Dimension(PANELWIDTH, PANELHEIGHT));
         removeAll();
         add(chartPanel, BorderLayout.CENTER);
         revalidate();
         repaint();
     }
+
+    private void clearChart() {
+        // Clear chart if no data is found
+        removeAll();
+        revalidate();
+        repaint();
+    }
+
 }

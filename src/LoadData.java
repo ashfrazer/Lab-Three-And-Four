@@ -20,7 +20,6 @@ public class LoadData {
             // Process each line
             while ((line = br.readLine()) != null) {
                 // Regex to handle fields with commas and quotation marks
-                // If you are unfamiliar with Regex, take PPL or visit: https://www.w3schools.com/java/java_regex.asp
                 String[] fields = line.split(",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)");
 
                 if (fields.length < 8) {
