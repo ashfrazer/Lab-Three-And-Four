@@ -4,10 +4,11 @@ import java.util.List;
 
 public class StatsPanel extends JPanel {
     private JLabel[] labels; // Array to hold labels
+    private StatsCalculator statsCalculator;
 
     public StatsPanel(List<Student> students) {
         // Initialize statsCalculator object
-        StatsCalculator statsCalculator = new StatsCalculator();
+        statsCalculator = new StatsCalculator();
         // Display stats
         setLayout(new GridLayout(7, 1));
 
@@ -47,18 +48,52 @@ public class StatsPanel extends JPanel {
     }
 
     private String getStat(int index, List<Student> students) {
-        // Create statsCalculator object
-        StatsCalculator statsCalculator = new StatsCalculator();
-        // Return corresponding stat value and format to appropriate num of decimal places
         return switch (index) {
-            case 0 -> String.valueOf(statsCalculator.getCount(students));
-            case 1 -> String.format("%.3f", statsCalculator.getMean(students));
-            case 2 -> String.format("%.3f", statsCalculator.getMedian(students));
-            case 3 -> statsCalculator.getMode(students).toString();
-            case 4 -> String.valueOf(statsCalculator.getMin(students));
-            case 5 -> String.valueOf(statsCalculator.getMax(students));
-            case 6 -> String.format("%.3f", statsCalculator.getSampleStandardDeviation(students));
+            case 0 -> String.valueOf(getCount(students)); // Count
+            case 1 -> String.format("%.3f", getMean(students)); // Mean
+            case 2 -> String.format("%.3f", getMedian(students)); // Median
+            case 3 -> String.valueOf(getMode(students)); // Mode
+            case 4 -> String.valueOf(getMin(students)); // Minimum
+            case 5 -> String.valueOf(getMax(students)); // Maximum
+            case 6 -> String.format("%.3f", getSampleStdDeviation(students)); // Sample StdDev
             default -> "";
         };
+    }
+
+    // Methods to execute corresponding strategy
+
+    private double getMean(List<Student> students) {
+        statsCalculator.setGPAStrategy(new GPAMeanConcreteStrategy());
+        return statsCalculator.calculateStat(students);
+    }
+
+    private double getMedian(List<Student> students) {
+        statsCalculator.setGPAStrategy(new GPAMedianConcreteStrategy());
+        return statsCalculator.calculateStat(students);
+    }
+
+    private Object getMode(List<Student> students) {
+        statsCalculator.setGPAStrategy(new GPAModeConcreteStrategy());
+        return statsCalculator.calculateStat(students);
+    }
+
+    private double getCount(List<Student> students) {
+        statsCalculator.setGPAStrategy(new GPACountConcreteStrategy());
+        return statsCalculator.calculateStat(students);
+    }
+
+    private double getMin(List<Student> students) {
+        statsCalculator.setGPAStrategy(new GPAMinConcreteStrategy());
+        return statsCalculator.calculateStat(students);
+    }
+
+    private double getMax(List<Student> students) {
+        statsCalculator.setGPAStrategy(new GPAMaxConcreteStrategy());
+        return statsCalculator.calculateStat(students);
+    }
+
+    private double getSampleStdDeviation(List<Student> students) {
+        statsCalculator.setGPAStrategy(new GPASampleStdDeviationConcreteStrategy(new GPAMeanConcreteStrategy()));
+        return statsCalculator.calculateStat(students);
     }
 }
