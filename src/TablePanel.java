@@ -7,11 +7,18 @@ import java.util.List;
 import java.util.Vector;
 import java.util.stream.Collectors;
 
-public class TablePanel extends JPanel {
+public class TablePanel extends JPanel implements Subject {
+    /**
+     * This is the Concrete Subject for the Observer Design Pattern.
+     * It holds the actual state and data for the observer to track. When the state
+     * changes, it notifies the observer.
+     */
     private JTable table;
     private DefaultTableModel tableModel;
     private TableRowSorter<DefaultTableModel> sorter;
     private List<FilterListener> filterListeners = new ArrayList<>();
+    private List<Observer> observers = new ArrayList<>();
+    private List<Student> filteredStudents;
 
     public interface FilterListener {
         // Implementing this interface notifies classes when filters are applied
@@ -80,6 +87,32 @@ public class TablePanel extends JPanel {
         return table;
     }
 
+    @Override
+    public void addObserver(Observer observer) {
+        /**
+         * OVERRIDDEN ADDOBSERVER METHOD FOR SUBJECT INTERFACE.
+         */
+        observers.add(observer);
+    }
+
+    @Override
+    public void removeObserver(Observer observer) {
+        /**
+         * OVERRIDDEN REMOVEOBSERVER METHOD FOR SUBJECT INTERFACE.
+         */
+        observers.remove(observer);
+    }
+
+    @Override
+    public void notifyObservers() {
+        /**
+         * OVERRIDDEN NOTIFYOBSERVERS METHOD FOR SUBJECT INTERFACE.
+         */
+        for (Observer observer : observers) {
+            observer.update(filteredStudents);
+        }
+    }
+
     private void applyFilters(JComboBox<String>[] filters, List<Student> allStudents) {
         // Store currently filtered values
         String[] selectedFilters = new String[filters.length];
@@ -88,7 +121,7 @@ public class TablePanel extends JPanel {
         }
 
         // JAVA STREAMS REQUIREMENT: Filters students based on selected filters
-        List<Student> filteredStudents = allStudents.stream()
+        filteredStudents = allStudents.stream()
                 .filter(student -> {
                     boolean is_match = true;
                     for (int i = 0; i < filters.length; i++) {
@@ -111,6 +144,9 @@ public class TablePanel extends JPanel {
 
         // Notify listeners upon filtering
         filterListeners.forEach(listener -> listener.onFilterApplied(filteredStudents));
+
+        // Notify the observers
+        notifyObservers();
     }
 
     private boolean inGPARange(String gpa, String range) {

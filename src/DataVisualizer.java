@@ -6,6 +6,9 @@ import java.util.List;
 public class DataVisualizer extends JFrame {
     /*
      * PLEASE READ:
+     *
+     * UPDATE: PLEASE READ THE READ_ME FILE FOR LAB 4 SO I CAN EXPLAIN THE DESIGN PATTERN IMPLEMENTATIONS!!!!!!
+     *
      * This is a program that processes information about students who check in to Study Hall (UNOFFICIAL DATA).
      * If you want to sort columns by ascending or descending order, please click on the column itself and it will be
      * sorted. Navigate through the panes (Spring and Fall) to explore different sets of students. Please note that
@@ -94,11 +97,11 @@ public class DataVisualizer extends JFrame {
             statsPanelContainer.removeAll();
 
             if (tabbedPane.getSelectedIndex() == 0) { // Spring tab
-                statsPanelSpring.updateStudents(filteredStudentsSpring);
+                statsPanelSpring.update(filteredStudentsSpring);
                 statsPanelContainer.add(statsPanelSpring, BorderLayout.CENTER);
                 chartPanelStats.updateChart(filteredStudentsSpring); // Update chart for spring data
             } else { // Fall tab
-                statsPanelFall.updateStudents(filteredStudentsFall);
+                statsPanelFall.update(filteredStudentsFall);
                 statsPanelContainer.add(statsPanelFall, BorderLayout.CENTER);
                 chartPanelStats.updateChart(filteredStudentsFall); // Update chart for fall data
             }
@@ -130,13 +133,13 @@ public class DataVisualizer extends JFrame {
         // Update ChartPanel and StatsPanel when filters are applied
         tablePanelSpring.addFilterListener(filteredStudents -> {
             filteredStudentsSpring = filteredStudents; // Update filtered data for Spring
-            statsPanelSpring.updateStudents(filteredStudentsSpring);
+            statsPanelSpring.update(filteredStudentsSpring);
             chartPanelStats.updateChart(filteredStudentsSpring);
         });
 
         tablePanelFall.addFilterListener(filteredStudents -> {
             filteredStudentsFall = filteredStudents; // Update filtered data for Fall
-            statsPanelFall.updateStudents(filteredStudentsFall);
+            statsPanelFall.update(filteredStudentsFall);
             chartPanelStats.updateChart(filteredStudentsFall);
         });
 

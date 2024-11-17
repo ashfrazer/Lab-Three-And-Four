@@ -2,7 +2,12 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.List;
 
-public class StatsPanel extends JPanel {
+public class StatsPanel extends JPanel implements Observer {
+    /**
+     * This is the Concrete Observer for the Observer Design Pattern.
+     * It registers through update() with the concrete subject and reacts
+     * when notified of a state change.
+     */
     private JLabel[] labels; // Array to hold labels
     private StatsCalculator statsCalculator;
 
@@ -33,7 +38,11 @@ public class StatsPanel extends JPanel {
     }
 
     // Update StatsPanel if user changes sample of students (tabs)
-    public void updateStudents(List<Student> students) {
+    @Override
+    public void update(List<Student> students) {
+        /**
+         * OVERRIDDEN UPDATE METHOD FOR OBSERVER INTERFACE
+         */
         if (students.isEmpty()) {
             for (int i = 0; i < labels.length; i++) {
                 labels[i].setText(labels[i].getText().split(": ")[0] + ": none");
