@@ -1,4 +1,5 @@
 # LAB FOUR INFORMATION:
+[Repository link](https://github.com/ashfrazer/Lab-Three-And-Four/tree/master)
 
 This is an updated repository from Lab Three, but it contains the code for Lab Four.
 
