@@ -62,6 +62,11 @@ File(s):
 -----
 ## Observer Design Pattern
 
+Side note: I had a similar approach to the Observer pattern in Lab 3 through the FilterListener interface.
+I made a more explicit Observer design pattern and only tied it in with `StatsPanel` to reduce the complexity
+(only for the scope of this assignment). I understand that there is some redundancy in this. Again, I'm just
+trying to make it more explicit and reduce the headache of rewriting the entire thing.
+
 ### **Subject**
 The Subject of this design pattern is implemented in the `Subject` interface.
 
